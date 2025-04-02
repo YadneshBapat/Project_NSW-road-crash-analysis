@@ -208,7 +208,7 @@ SELECT
     SUM(No_moderately_injured) AS Total_moderately_injured,
     SUM(No_minor_other_injured) AS Total_minor_injured
 FROM NSW2016_2023
-WHERE School_zone_location = 'Yes' -- school zone can be yes or no or removed completely
+WHERE School_zone_location = 'Yes' -- school zone can be 'yes' or 'no' or removed completely
   AND Year_of_crash BETWEEN 2016 AND 2023  -- Year range
 GROUP BY Street_of_crash, School_zone_location, Type_of_location
 ORDER BY crash_count DESC 
@@ -264,11 +264,11 @@ WHERE n.Year_of_crash BETWEEN 2016 AND 2017
 GROUP BY tc.Manoeuvre
 ORDER BY crash_count DESC;
 
--- ------------- 14. Crash and injury stats for vehicle involved -------------
+-- ------------- 14. Crash and injury stats for vehicles involved -------------
 WITH Total AS (
     SELECT 
         tc.TU_Type_Group, 
-        COUNT(DISTINCT tc.Crash_ID) AS total_crashes_in_group  -- Total crashes in each TU_Type_Group
+        COUNT(DISTINCT tc.Crash_ID) AS total_crashes_in_group  
     FROM traffic_crashes tc
     JOIN NSW2016_2023 nc ON tc.Crash_ID = nc.Crash_ID
     WHERE nc.Year_of_crash BETWEEN 2015 AND 2023
@@ -276,14 +276,14 @@ WITH Total AS (
 )
 SELECT 
     tc.TU_Type_Group, 
-    COUNT(DISTINCT tc.Crash_ID) AS Unique_Crashes,  -- Count of unique crashes for this type
+    COUNT(DISTINCT tc.Crash_ID) AS Unique_Crashes, 
     SUM(nc.No_seriously_injured + nc.No_moderately_injured + nc.No_minor_other_injured) AS Total_Injuries,
     ROUND(SUM(nc.No_seriously_injured) * 100.0 / NULLIF(SUM(nc.No_seriously_injured + nc.No_moderately_injured + nc.No_minor_other_injured), 0), 2) AS Serious_Injuries_Percentage,
     ROUND(SUM(nc.No_moderately_injured) * 100.0 / NULLIF(SUM(nc.No_seriously_injured + nc.No_moderately_injured + nc.No_minor_other_injured), 0), 2) AS Moderate_Injuries_Percentage,
     ROUND(SUM(nc.No_minor_other_injured) * 100.0 / NULLIF(SUM(nc.No_seriously_injured + nc.No_moderately_injured + nc.No_minor_other_injured), 0), 2) AS Minor_Injuries_Percentage
 FROM traffic_crashes tc
 JOIN NSW2016_2023 nc ON tc.Crash_ID = nc.Crash_ID
-JOIN Total t ON tc.TU_Type_Group = t.TU_Type_Group  -- Join to get the total crashes per TU_Type_Group
+JOIN Total t ON tc.TU_Type_Group = t.TU_Type_Group 
 WHERE nc.Year_of_crash BETWEEN 2015 AND 2023
 GROUP BY tc.TU_Type_Group
 ORDER BY Unique_Crashes DESC;
@@ -320,7 +320,7 @@ WHERE Year_of_crash BETWEEN 2019 AND 2023  -- Year filter
 GROUP BY No_of_traffic_units_involved
 ORDER BY total_injuries DESC;
 
--- ------------- 16. Speed limit wise crash and injury statistics -------------
+-- ------------- 16. Speed limit-wise crash and injury statistics -------------
 SELECT 
     Speed_limit, 
     COUNT(*) AS crash_count,
