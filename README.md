@@ -1,4 +1,6 @@
 # Project_NSW-road-crash-analysis
 
 
-## This webpage will be updated on 31/03/2025  at 20:00 full project details.
+## mySQL and PoweBI report have been added.
+
+### next update on 6/4/2025 will be for excel data vldiation
