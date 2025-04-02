@@ -14,3 +14,7 @@ ENCLOSED BY '"'
 LINES TERMINATED BY '\r\n'
 IGNORE 1 LINES;
 ```
+### Step 3:
+Download the PBIX files and open them in Power BI Desktop to view the reports.
+
+**Note:** Replace `'path_to_your_downloaded_file'` with the actual file path where your CSV file is stored.
