@@ -190,7 +190,7 @@ FROM NSW2016_2023
 GROUP BY Other_traffic_control
 ORDER BY crash_count DESC;
 
--- ------------- 9. s -------------
+-- ------------- 9. Crash count by location type and degree of crash -------------
 SELECT Type_of_location, Degree_of_crash_detailed, COUNT(*) AS crash_count
 FROM NSW2016_2023
 WHERE (year_of_crash BETWEEN 2015 AND 2023) AND (Type_of_location != 'Unknown') -- year filter and exclude unkown from locaiton type 
