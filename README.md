@@ -10,6 +10,7 @@ This project aims to transform raw data into actionable insights, which will hel
 
 ### Data structure
 include an ERD diagram
+<img width="344" alt="erd diagram" src="https://github.com/user-attachments/assets/b2ce363e-61f2-4415-bfa6-7eb6cdf77c71" />
 
 ### Executive summary
 - quantative value
