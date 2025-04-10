@@ -4,6 +4,9 @@
 - [Project Background](#project-background)
 - [Project Objectives](#project-objectives)
 - [Data structure](#data-structure)
+- [Executive summary](#executive-summary)
+- [Insights deep dive](#insights-deep-dive)
+- [Recommendations](#recommendations)
 
 
 ##  Project Background: 
@@ -40,14 +43,14 @@ The dataset used in this project is organized into a relational database schema 
 <img width="344" alt="erd diagram" src="https://github.com/user-attachments/assets/b2ce363e-61f2-4415-bfa6-7eb6cdf77c71" /> 
 
 
-## Executive summary
+## Executive summary:
 - quantitative value
 - business metric
 - historical trend and story
 <br>
 
-## Insights deep dive
+## Insights deep dive:
 <br>
 
-## Recommendations
+## Recommendations:
 <br>
