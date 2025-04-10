@@ -9,11 +9,11 @@ This project aims to transform raw data into actionable insights, which will hel
 - { write this} 
 
 ### Data structure
-include an ERD diagram
+The dataset includes two tables; the first table has road collision data, injury-related data, and the second table has data about objects and the number of traffic units involved in the crash. Each table has crash_id as a common column that links data from both tables.
 <img width="344" alt="erd diagram" src="https://github.com/user-attachments/assets/b2ce363e-61f2-4415-bfa6-7eb6cdf77c71" />
 
 ### Executive summary
-- quantative value
+- quantitative value
 - business metric
 - historical trend and story
 
