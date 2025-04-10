@@ -1,9 +1,9 @@
 # Project_NSW-road-crash-analysis
 
 ## Table of Contents:
-- [Project Background](#project-background:)
-- [Project Objectives](#project-objectives:)
-- [Data structure](#data-structure:)
+- [Project Background](#project-background)
+- [Project Objectives](#project-objectives)
+- [Data structure](#data-structure)
 
 
 ##  Project Background: 
