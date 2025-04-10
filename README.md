@@ -1,9 +1,8 @@
 # Project_NSW-road-crash-analysis
 
 ### Project Background & overview:
-Around 33% of Australia's total population lives in New South Wales, and thousands of individuals get their driver's licenses each year. Traffic collisions result in human, social, and economic costs every year. Road safety is a critical concern in the state. A comprehensive analysis of crash frequencies, hotspot locations, environmental conditions affecting the crash, and injury severity will help in addressing the issue.
+Road accidents are the primary cause of injuries and fatalities globally. Road accidents claim millions of lives each year and leave countless more injured. With several info programmes, laws, and public awareness efforts designed to lower the number of road trauma victims, road safety is a top concern in Australia. Road collisions remain a major problem despite these efforts, particularly in heavily urbanised and inhabited regions. About 8.2 million people live in New South Wales (NSW), the most populated state in Australia. It makes up to 33% of the nation's total population as of 2023. Ensuring safe travel has been a top concern for legislators, law enforcement, and urban planners because of the continuous expansion of the population, development of infrastructure, and growing need for transportation. Road accidents involving both seasoned and inexperienced drivers continue to occur despite attempts. Data monitoring and analysis help in understanding the factors contributing to road accidents. This project uses a publicly released dataset by NSW to identify important patterns and insights that might help lower accident rates and increase road safety.
 
-This project aims to transform raw data into actionable insights, which will help in creating new road safety initiatives and road policies.  
 <br>
 ### Project Objectives:
 - { write this} 
