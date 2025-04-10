@@ -14,6 +14,7 @@ The dataset includes two tables; the first table has road collision data, injury
 
 <img width="344" alt="erd diagram" src="https://github.com/user-attachments/assets/b2ce363e-61f2-4415-bfa6-7eb6cdf77c71" />
 <br>
+
 ### Executive summary
 - quantitative value
 - business metric
