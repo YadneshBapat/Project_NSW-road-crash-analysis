@@ -1,6 +1,17 @@
 # Project_NSW-road-crash-analysis
 
+### Background & overview
+context and goals in eyes of data analyst
 
-## mySQL and PoweBI report have been added.
+### Data structure
+include an ERD diagram
 
-### next update on 6/4/2025 will be for excel data vldiation
+### Executive summary
+- quantative value
+- business metric
+- historical trend and story
+
+### Insights deep dive
+
+### Recommendations
+
