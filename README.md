@@ -10,8 +10,27 @@ Road accidents are the primary cause of injuries and fatalities globally. Road a
 </p>
 
 ### Data structure
-The dataset includes two tables; the first table has road collision data, injury-related data, and the second table has data about objects and the number of traffic units involved in the crash. Each table has crash_id as a common column that links data from both tables. <br> 
+<p align="justify">
+The dataset used in this project is organized into a relational database schema designed to capture detailed information about road crashes and the associated traffic units involved in each incident. It primarily consists of two interconnected tables: </p>
+<ol>
+  <li><p align="justify">
+    nsw2016_2023 Table: <br>
+  This table has data about each crash, where each row has a unique crash ID, which is the primary key for the table. Other data columns include:
+    <ul>
+<li>Temporal Information: Reporting year, year and month of crash, day of the week, and two-hour time intervals.</li>
+<li>Geographic Location: Latitude, longitude, town, LGA, route number, identifying features (e.g., landmarks), and road types.</li>
+<li>Environmental Factors: Weather, street lighting, natural lighting, road surface condition, urbanization, and conurbation level.</li>
+<li>Crash Characteristics: Degree of crash severity, type and location of hazards, traffic control signals, road alignment, and school zone activity.</li>
+<li>Casualties: Number of people killed, seriously injured, moderately injured, or sustaining minor injuries.</li>
+<li>Classification and Codes: RUM code and description (Road User Movement), DCA code and description (crash visualised with a diagram), type of impact, and road classification.</li></ul><br>
+<li>
+    traffic_crashes Table: <br>   
+  This table has details about each traffic unit involved, its type, movement details, and is linked to the nsw2016_2023 table by the column crash_id. Other columns include:
+    <ul>
+<li>Traffic Unit Characteristics: Type group (e.g., car, bus, bicycle), role in the crash (e.g., at fault, involved), maneuver before crash (e.g., turning, overtaking), and direction of travel.</li>
+<li>Control and Impact Data: Whether the vehicle was under driver control at the time, and objects hit during the crash.</li> </p>
 
+<br> 
 <img width="344" alt="erd diagram" src="https://github.com/user-attachments/assets/b2ce363e-61f2-4415-bfa6-7eb6cdf77c71" />
 
 
