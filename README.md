@@ -19,8 +19,10 @@ The dataset includes two tables; the first table has road collision data, injury
 - quantitative value
 - business metric
 - historical trend and story
+<br>
 
 ### Insights deep dive
+<br>
 
 ### Recommendations
-
+<br>
