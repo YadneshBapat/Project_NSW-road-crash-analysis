@@ -3,6 +3,7 @@
 ## Table of Contents:
 - [Project Background](#project-background)
 - [Project Objectives](#project-objectives)
+- [Data source](#data-source)
 - [Dataset structure](#dataset-structure)
 - [Executive summary](#executive-summary)
 - [Insights deep dive](#insights-deep-dive)
@@ -21,6 +22,9 @@ Road accidents are the primary cause of injuries and fatalities globally. Road a
 ## Project Objectives:
 <p align="justify"> The project's main goal is to conduct a thorough analysis of road collision incidents in New South Wales between 2016 and 2023 to produce useful information that can lower accident rates and enhance road safety. The frequency, location, and severity of collisions, as well as environmental factors including weather, illumination, road surface, and urban vs rural settings, will all be examined in this research. Finding collision hotspots in certain communities, streets, or junctions where accidents happen frequently and determining if characteristics like road design, alignment, or inadequate street lighting contribute to these trends are important components of this research. At the end, a comprehensive picture of the causes that lead to traffic accidents in New South Wales is presented by integrating geographic, environmental, behavioural, and infrastructure aspects will be presented. Finally, data-supported suggestions will be provided which can be used by safety professionals, traffic authorities, and policymakers to make NSW roads safer for all users.
 </p> 
+
+## Data source:
+Data obtained from the NSW Government [(Transport Open Data portal)](https://opendata.transport.nsw.gov.au/dataset/nsw-crash-data)
 
 ## Dataset structure:
 <p align="justify">
