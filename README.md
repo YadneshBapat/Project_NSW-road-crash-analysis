@@ -1,5 +1,7 @@
 # Project_NSW-road-crash-analysis
 
+## Full project will be published on 15 April 2025 (1 day left).
+
 ## Table of Contents:
 - [Project Background](#project-background)
 - [Project Objectives](#project-objectives)
