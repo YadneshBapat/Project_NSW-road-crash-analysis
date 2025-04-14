@@ -28,7 +28,7 @@ Data obtained from the NSW Government [(Transport Open Data portal)](https://ope
 
 ## Dataset structure:
 <p align="justify">
-The dataset used in this project is organized into a relational database schema designed to capture detailed information about road crashes and the associated traffic units involved in each incident.  </p>
+The dataset used in this project is organized into a relational database schema designed to capture detailed information about road crashes and the associated traffic units involved in each incident.  </p> <br>
 - Write about the dataset described in data terms and ERD terms
 
 <br> 
