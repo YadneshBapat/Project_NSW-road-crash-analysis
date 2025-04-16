@@ -79,6 +79,10 @@ From 2016 to 2023, 31.47% of crashes resulted in Non-casualty (towaway), with 51
 <img width="245" alt="6 injury distribution" src="https://github.com/user-attachments/assets/c8f8a4cb-dc5c-486c-947a-0a786e95683f" />
 </li>
 
+<li>The highest number of crashes occurred during these peak hours, with 16:00 - 17:59 (24,513 crashes) and 14:00 - 15:59 (22,901 crashes) leading, aligning with evening rush hour and post-work congestion. Other notable periods include 12:00 - 13:59 (18,687 crashes) and 08:00 - 09:59 (17,629 crashes), corresponding to midday and morning peak times. Evening intervals like 18:00 - 19:59 (16,445 crashes) and 20:00 - 21:59 (11,054 crashes) also see a significant number of crashes, likely due to reduced visibility. Early morning and late-night periods show fewer crashes, with the Unknown category reporting just 11 incidents<br>
+<img width="148" alt="7 2 hour interval" src="https://github.com/user-attachments/assets/5aa99fc0-97c6-4803-a8ac-5c4f71274335" />
+
+</li>
 
 </ul>
 
