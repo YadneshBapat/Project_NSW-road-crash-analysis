@@ -1,8 +1,5 @@
 # The full project details will be updated tomorrow
 
-
-# Project_NSW-road-crash-analysis
-
 ## Table of Contents:
 - [Project Background](#project-background)
 - [Project Objectives](#project-objectives)
