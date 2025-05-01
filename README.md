@@ -42,6 +42,8 @@ The dataset used in this project is organised into a relational database schema 
   - Serious injuries had the same impact but did not reach a high value, but they are still higher than the pandemic time frame. <br>
   - Moderate and minor injuries showed a decline, but a short growth in 2023 was seen. <br>
   - The Number of road collisions has reduced gradually from 2016 to 2021 however, it rises steadily from 2021 to 2023. <br>
+  - MOST COMMON VEHICLE
+  - MOST COMMON ROAD TYPE
  <br>
   <img width="896" alt="1 crashes overview line chart" src="https://github.com/user-attachments/assets/f846b220-b056-4103-bc31-ca642a1deea0" />
   <br>
