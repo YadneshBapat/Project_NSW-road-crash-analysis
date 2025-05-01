@@ -1,4 +1,4 @@
-# the full project details will be updated tomorrow
+# The full project details will be updated tomorrow
 
 
 # Project_NSW-road-crash-analysis
@@ -31,7 +31,7 @@ Data obtained from the NSW Government [(Transport Open Data portal)](https://ope
 
 ## Dataset structure:
 <p align="justify">
-The dataset used in this project is organized into a relational database schema designed to capture detailed information about road crashes and the associated traffic units involved in each incident.  </p> <br>
+The dataset used in this project is organised into a relational database schema designed to capture detailed information about road crashes and the associated traffic units involved in each incident.  </p> <br>
 - DESCRIPTION ABOUT THIS DATASET. <br> <br>
 
 <img width="344" alt="erd diagram" src="https://github.com/user-attachments/assets/b2ce363e-61f2-4415-bfa6-7eb6cdf77c71" /> 
@@ -78,7 +78,7 @@ These trends highlight potential risk periods for targeted road safety intervent
 
 </li>
 <li> <p align="justify">
-From 2016 to 2023, 31.47% of crashes resulted in Non-casualty (towaway), with 51,750 incidents, indicating that a significant portion of crashes do not cause injuries but lead to vehicle damage. Moderate injuries accounted for 27.76% with 45,639 cases, while Serious injuries contributed 20.71% with 34,060 incidents. Minor/Other injuries made up 18.57% of crashes, totaling 30,530, and Fatal crashes were the least frequent at 1.49%, with 2,452 incidents. These figures highlight the need for targeted safety measures, especially for moderate and serious injuries. </p>
+From 2016 to 2023, 31.47% of crashes resulted in Non-casualty (towaway), with 51,750 incidents, indicating that a significant portion of crashes do not cause injuries but lead to vehicle damage. Moderate injuries accounted for 27.76% with 45,639 cases, while Serious injuries contributed 20.71% with 34,060 incidents. Minor/Other injuries made up 18.57% of crashes, totalling 30,530, and Fatal crashes were the least frequent at 1.49%, with 2,452 incidents. These figures highlight the need for targeted safety measures, especially for moderate and serious injuries. </p>
 
 <!-- <img width="245" alt="6 injury distribution" src="https://github.com/user-attachments/assets/c8f8a4cb-dc5c-486c-947a-0a786e95683f" /> -->
 </li>
