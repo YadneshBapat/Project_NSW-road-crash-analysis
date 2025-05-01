@@ -36,6 +36,7 @@ The dataset used in this project is organized into a relational database schema 
 
 <img width="344" alt="erd diagram" src="https://github.com/user-attachments/assets/b2ce363e-61f2-4415-bfa6-7eb6cdf77c71" /> 
 
+
 ## Executive summary:
 - quantitative value
 - business metric
@@ -51,7 +52,7 @@ The dataset used in this project is organized into a relational database schema 
   - Moderate and minor injuries showed a decline, but a short growth in 2023 was seen. <br>
   - The Number of road collisions has reduced gradually from 2016 to 2021 however, it rises steadily from 2021 to 2023. <br>
  <br>
-  <img width="970" alt="1 crashes overview line chart" src="https://github.com/user-attachments/assets/de152d7a-923d-4c1f-82f6-bea2d0a2d17e" />
+  <img width="896" alt="1 crashes overview line chart" src="https://github.com/user-attachments/assets/f846b220-b056-4103-bc31-ca642a1deea0" />
 <p align="justify">
 
    </p>
