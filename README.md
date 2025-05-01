@@ -45,14 +45,15 @@ The dataset used in this project is organized into a relational database schema 
 ## Insights deep dive:
 <ol>
 <li>Overall road collision analysis:</li>
-<ul>
-  <li> The Number of road collisions has reduced gradually from 2016 to 2021 however, it rises steadily from 2021 to 2023. </li>
- 
-  <img width="970" alt="1 crashes overview line chart" src="https://github.com/user-attachments/assets/de152d7a-923d-4c1f-82f6-bea2d0a2d17e" />
-<p align="justify">
+<ul> <br>
   - Fatal injuries gradually reduced from 2017 to 2022 but reached pre-pandemic values quickly in 2023. <br>
   - Serious injuries had the same impact but did not reach a high value, but they are still higher than the pandemic time frame. <br>
-  - Moderate and minor injuries showed a decline, but a short growth in 2023 was seen.
+  - Moderate and minor injuries showed a decline, but a short growth in 2023 was seen. <br>
+  - The Number of road collisions has reduced gradually from 2016 to 2021 however, it rises steadily from 2021 to 2023. <br>
+ <br>
+  <img width="970" alt="1 crashes overview line chart" src="https://github.com/user-attachments/assets/de152d7a-923d-4c1f-82f6-bea2d0a2d17e" />
+<p align="justify">
+
    </p>
   
  <!-- <img width="725" height="180" alt="2 year of crash and types of injuries basic" src="https://github.com/user-attachments/assets/2bf47dca-fc0b-4b81-b7c3-3db8efcdc6bc" /> -->
