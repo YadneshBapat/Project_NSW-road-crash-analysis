@@ -96,6 +96,3 @@ From 2016 to 2023, 31.47% of crashes resulted in Non-casualty (towaway), with 51
 ## Recommendations:
 
 
-
-## Flow
-over view of accidents
