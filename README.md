@@ -69,23 +69,23 @@ These trends highlight potential risk periods for targeted road safety intervent
 
 </p></li>
 
-<li> <p align="justify"> The crash data from 2016 to 2023 reveals that Greater Sydney has the highest crash count (69,281) due to its large population and numerous local areas. The Far West & Remote region follows with 45,019 crashes, driven by its expansive geography and sparsely populated areas. North Coast & Hunter reports 30,819 crashes, reflecting a combination of urban centres and popular tourist destinations. The South Coast & ACT Region and Central West & Tablelands have fewer crashes, at 10,666 and 8,646. Respectively, due to their lower population densities and fewer regions. These patterns emphasise how population size and geographic spread influence crash totals across different areas. </p></li> <br>
+<li> <p align="justify"> The crash data from 2016 to 2023 reveals that Greater Sydney has the highest crash count (69,281) due to its large population and numerous local areas. The Far West & Remote region follows with 45,019 crashes, driven by its expansive geography and sparsely populated areas. North Coast & Hunter reports 30,819 crashes, reflecting a combination of urban centres and popular tourist destinations. The South Coast & ACT Region and Central West & Tablelands have fewer crashes, at 10,666 and 8,646. Respectively, due to their lower population densities and fewer regions. These patterns emphasise how population size and geographic spread influence crash totals across different areas. </p><br></li> 
 <!-- <img width="168" alt="4 region wise crashes" src="https://github.com/user-attachments/assets/23c5c975-9c76-4fbf-a93c-4ca2c1c72603" /> -->
 
-<li><p align="justify"> From 2016 to 2023, 64.91% of crashes occurred in daylight, followed by 25.23% in darkness, highlighting the need for improved visibility and nighttime safety measures. Dusk and dawn account for 9.60%, indicating higher risk during transitional lighting. Unknown lighting conditions make up only 0.25%, suggesting room for better data accuracy. Overall, the focus should be on human factors, visibility improvements, and data quality.</p> 
+<li><p align="justify"> From 2016 to 2023, 64.91% of crashes occurred in daylight, followed by 25.23% in darkness, highlighting the need for improved visibility and nighttime safety measures. Dusk and dawn account for 9.60%, indicating higher risk during transitional lighting. Unknown lighting conditions make up only 0.25%, suggesting room for better data accuracy. Overall, the focus should be on human factors, visibility improvements, and data quality.</p> <br>
 <!-- <img width="209" alt="5 weather wise crashes" src="https://github.com/user-attachments/assets/877bd032-45fc-4009-ae5d-98529d7a654c" /> -->
 
-</li><br>
+</li>
 <li> <p align="justify">
-From 2016 to 2023, 31.47% of crashes resulted in Non-casualty (towaway), with 51,750 incidents, indicating that a significant portion of crashes do not cause injuries but lead to vehicle damage. Moderate injuries accounted for 27.76% with 45,639 cases, while Serious injuries contributed 20.71% with 34,060 incidents. Minor/Other injuries made up 18.57% of crashes, totaling 30,530, and Fatal crashes were the least frequent at 1.49%, with 2,452 incidents. These figures highlight the need for targeted safety measures, especially for moderate and serious injuries. </p>
+From 2016 to 2023, 31.47% of crashes resulted in Non-casualty (towaway), with 51,750 incidents, indicating that a significant portion of crashes do not cause injuries but lead to vehicle damage. Moderate injuries accounted for 27.76% with 45,639 cases, while Serious injuries contributed 20.71% with 34,060 incidents. Minor/Other injuries made up 18.57% of crashes, totaling 30,530, and Fatal crashes were the least frequent at 1.49%, with 2,452 incidents. These figures highlight the need for targeted safety measures, especially for moderate and serious injuries. </p><br>
 
 <!-- <img width="245" alt="6 injury distribution" src="https://github.com/user-attachments/assets/c8f8a4cb-dc5c-486c-947a-0a786e95683f" /> -->
-</li><br>
+</li>
 
-<li> <p align="justify">The highest number of crashes occurred during these peak hours, with 16:00 - 17:59 (24,513 crashes) and 14:00 - 15:59 (22,901 crashes) leading, aligning with evening rush hour and post-work congestion. Other notable periods include 12:00 - 13:59 (18,687 crashes) and 08:00 - 09:59 (17,629 crashes), corresponding to midday and morning peak times. Evening intervals like 18:00 - 19:59 (16,445 crashes) and 20:00 - 21:59 (11,054 crashes) also see a significant number of crashes, likely due to reduced visibility. Early morning and late-night periods show fewer crashes, with the Unknown category reporting just 11 incidents<br> </p>
+<li> <p align="justify">The highest number of crashes occurred during these peak hours, with 16:00 - 17:59 (24,513 crashes) and 14:00 - 15:59 (22,901 crashes) leading, aligning with evening rush hour and post-work congestion. Other notable periods include 12:00 - 13:59 (18,687 crashes) and 08:00 - 09:59 (17,629 crashes), corresponding to midday and morning peak times. Evening intervals like 18:00 - 19:59 (16,445 crashes) and 20:00 - 21:59 (11,054 crashes) also see a significant number of crashes, likely due to reduced visibility. Early morning and late-night periods show fewer crashes, with the Unknown category reporting just 11 incidents<br> </p><br>
 <!-- <img width="148" alt="7 2 hour interval" src="https://github.com/user-attachments/assets/5aa99fc0-97c6-4803-a8ac-5c4f71274335" /> -->
 
-</li><br>
+</li>
 
 </ul> 
 
