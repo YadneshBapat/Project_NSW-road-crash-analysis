@@ -41,7 +41,6 @@ The dataset used in this project is organized into a relational database schema 
 - quantitative value
 - business metric
 - historical trend and story
-<br>
 
 ## Insights deep dive:
 <ol>
@@ -94,9 +93,10 @@ From 2016 to 2023, 31.47% of crashes resulted in Non-casualty (towaway), with 51
 <li>Region wise analysis:</li>
 <li>Location wise analysis:</li> </ol>
 
+## Insights deep dive:
 
 ## Recommendations:
-<br>
+
 
 
 ## Flow
