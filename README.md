@@ -41,8 +41,8 @@ The dataset used in this project is organised into a relational database schema 
 <p align="justify"> Fatal injuries gradually reduced from 2017 to 2022 but reached pre-pandemic values quickly in 2023.
 Serious injuries had the same impact but did not reach a high value, but they are still higher than the pandemic time frame. 
 Moderate and minor injuries showed a decline, but a short growth in 2023 was seen. 
-The Number of road collisions has reduced gradually from 2016 to 2021 however, it rises steadily from 2021 to 2023. <br>
-  - MOST COMMON VEHICLE
+The Number of road collisions has reduced gradually from 2016 to 2021 however, it rises steadily from 2021 to 2023. <br><br>
+  - MOST COMMON VEHICLE<br>
   - MOST COMMON ROAD TYPE </p>
  <br>
   <img width="896" alt="1 crashes overview line chart" src="https://github.com/user-attachments/assets/f846b220-b056-4103-bc31-ca642a1deea0" />
