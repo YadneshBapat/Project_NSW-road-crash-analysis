@@ -93,7 +93,7 @@ For csv exported from the zip - nsw_road_crash_data_2019-2023_traffic_unit:
 ```sql
 SET GLOBAL LOCAL_INFILE=ON;
 
-LOAD DATA LOCAL INFILE 'path_to_your_downloaded_file' 
+LOAD DATA LOCAL INFILE 'path_to_downloaded_file' 
 INTO TABLE traffic_crashes
 FIELDS TERMINATED BY ',' 
 ENCLOSED BY '"'
@@ -106,4 +106,4 @@ Ensure that you have inserted all 8 csv files.
 Download the PBIX files and open them in Power BI Desktop to view the reports.
 
 
-**Note:** Replace `'path_to_your_downloaded_file'` with the actual file path where your CSV file is stored.
+**Note:** Replace `'path_to_downloaded_file'` with the actual file path where your CSV file is stored.
