@@ -54,9 +54,7 @@ The dataset used in this project is organised into a relational database schema 
 ## Insights deep dive:
 <ol>
 <li>Overall road collision analysis:</li>
-<ul> <br>
-
-  
+<ul> 
  <!-- <img width="725" height="180" alt="2 year of crash and types of injuries basic" src="https://github.com/user-attachments/assets/2bf47dca-fc0b-4b81-b7c3-3db8efcdc6bc" /> -->
 
   <li> <p align="justify">
