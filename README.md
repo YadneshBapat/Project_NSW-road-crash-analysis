@@ -81,8 +81,18 @@ From 2016 to 2023, 31.47% of crashes resulted in Non-casualty (towaway), with 51
 
 <li> <p align="justify">The highest number of crashes occurred during these peak hours, with 16:00 - 17:59 (24,513 crashes) and 14:00 - 15:59 (22,901 crashes) leading, aligning with evening rush hour and post-work congestion. Other notable periods include 12:00 - 13:59 (18,687 crashes) and 08:00 - 09:59 (17,629 crashes), corresponding to midday and morning peak times. Evening intervals like 18:00 - 19:59 (16,445 crashes) and 20:00 - 21:59 (11,054 crashes) also see a significant number of crashes, likely due to reduced visibility. Early morning and late-night periods show fewer crashes, with the Unknown category reporting just 11 incidents<br> </p>
 <!-- <img width="148" alt="7 2 hour interval" src="https://github.com/user-attachments/assets/5aa99fc0-97c6-4803-a8ac-5c4f71274335" /> -->
-
 </li>
+
+<li> <p align="justify">Vehicles like sedans and hatchbacks have the most crashes. It is followed by other 4-wheel vehicles, and then trucks and motorcycles. Sedans and hatchbacks were involved in 75,690 crashes, which is more than the total of all four wheel drives, light trucks, and motorcycles (the next four vehicle types) combined.  </p></li>
+
+Car (sedan/hatch), 75690
+4 wheel drive, 25427
+Light truck utility(from 2018), 13307
+Light truck, 10549
+Motorcycle, 10118
+
+
+<li> <p align="justify">ABOUT ROAD</p></li>
 
 </ul> 
 
