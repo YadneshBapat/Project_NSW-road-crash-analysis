@@ -84,7 +84,7 @@ From 2016 to 2023, 31.47% of crashes resulted in Non-casualty (towaway), with 51
 <!-- <img width="148" alt="7 2 hour interval" src="https://github.com/user-attachments/assets/5aa99fc0-97c6-4803-a8ac-5c4f71274335" /> -->
 </li>
 
-<li> <p align="justify">Vehicles like sedans and hatchbacks have the most crashes. It is followed by other 4-wheel vehicles, and then trucks and motorcycles. Sedans and hatchbacks were involved in 75,690 crashes, which is more than the total of all four wheel drives, light trucks, and motorcycles (the next four vehicle types) combined.  </p></li>
+<li> <p align="justify">Vehicles like sedans and hatchbacks have the most crashes. It is followed by other 4-wheel vehicles, and then trucks and motorcycles. Sedans and hatchbacks were involved in 75,690 crashes, which is more than the total of all four wheel drives, light trucks, and motorcycles (the next four vehicle types) combined. These vehicles also account for the majority of crashes in  every two hour interval throughout the day and also during low visibility hours.  </p></li>
 
 Car (sedan/hatch), 75690
 4 wheel drive, 25427
