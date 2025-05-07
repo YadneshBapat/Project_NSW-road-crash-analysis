@@ -8,7 +8,6 @@
 - [Executive summary](#executive-summary)
 - [Insights deep dive](#insights-deep-dive)
 - [Recommendations](#recommendations)
-- [Power BI report and dashboard](Power-BI-report-and-dashboard)
 
 
 ##  Project Background: 
