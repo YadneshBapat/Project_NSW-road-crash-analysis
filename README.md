@@ -25,7 +25,7 @@ Road accidents are the primary cause of injuries and fatalities globally. Road a
 
 ## Data source:
 Data obtained from the NSW Government [(Transport Open Data portal)](https://opendata.transport.nsw.gov.au/dataset/nsw-crash-data) <br>
-If the link above does not work, please use this direct URL -> https://opendata.transport.nsw.gov.au/dataset/nsw-crash-data
+If the link above does not work, please use this direct URL -> `https://opendata.transport.nsw.gov.au/dataset/nsw-crash-data`
 
 ## Dataset structure:
 <p align="justify">
