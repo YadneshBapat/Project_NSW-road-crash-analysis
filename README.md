@@ -8,7 +8,7 @@
 - [Executive summary](#executive-summary)
 - [Insights deep dive](#insights-deep-dive)
 - [Recommendations](#recommendations)
-- [Power BI report](#powerbireport)
+- [Power BI report and dashboard](Power-BI-report-and-dashboard)
 
 
 ##  Project Background: 
@@ -107,4 +107,4 @@ Motorcycle, 10118
 
 ## Recommendations:
 
-##  Power BI report: 
+##  Power BI report and dashboard: 
