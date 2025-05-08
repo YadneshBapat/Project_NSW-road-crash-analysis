@@ -1,4 +1,4 @@
-# The full project details will be updated tomorrow
+# The full project details will be updated on 9 May 2025. 
 
 ## Table of Contents:
 - [Project Background](#project-background)
