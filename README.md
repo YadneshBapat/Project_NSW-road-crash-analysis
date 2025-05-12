@@ -1,4 +1,4 @@
-# The full project details will be updated on 11 May 2025 8pm. 
+# The full project details will be updated on 12 May 2025 8pm. 
 
 ## Table of Contents:
 - [Project Background](#project-background)
