@@ -95,7 +95,7 @@ From 2016 to 2023, 31.47% of crashes resulted in Non-casualty (towaway), with 51
 </ul> 
 
 <li>Region wise analysis:</li>
-
+<li> <p align="justify"> The Sydney Metropolitan area recorded the highest number of crashes, which is expected due to its high population density.  </p></li>
 
 
 <li>Analysis by road type:</li> </ol>
