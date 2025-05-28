@@ -44,7 +44,8 @@ The Number of road collisions has reduced gradually from 2016 to 2021 however, i
   - MOST COMMON VEHICLE<br>
   - MOST COMMON ROAD TYPE </p>
  <br>
-  <img width="880" alt="1 crashes overview line chart" src="https://github.com/user-attachments/assets/6bcfad71-85e2-4db1-8923-a560580e68d0" />
+  <img width="675" alt="injury stat" src="https://github.com/user-attachments/assets/30a853ee-eb0f-4c5b-9086-a90bbc6f5272" />
+
   <br>
 - quantitative value
 - business metric
