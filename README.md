@@ -26,7 +26,7 @@ Road accidents are the primary cause of injuries and fatalities globally. Road a
 
 ## Data source:
 Data obtained from the NSW Government [(Transport Open Data portal)](https://opendata.transport.nsw.gov.au/dataset/nsw-crash-data) <br>
-If the above link does not work, please use this direct URL -> `https://opendata.transport.nsw.gov.au/dataset/nsw-crash-data`
+clean URL -> `https://opendata.transport.nsw.gov.au/dataset/nsw-crash-data`
 
 ## Dataset structure:
 <p align="justify">
@@ -51,37 +51,24 @@ The Number of road collisions has reduced gradually from 2016 to 2021 however, i
 - business metric
 - historical trend and story
 
+## Project Overview:
+<ul>
+<li> <p align="justify"> Crash Hotspots and Geographic Distribution: Crashes are highly concentrated in urban LGAs such as Canterbury-Bankstown, Central Coast, Blacktown, Sydney, and Parramatta, with some high-crash streets like Pacific St, Canterbury Rd, Western Rd, and Hume Hwy contributing disproportionately to total incidents. Rural LGAs, while having fewer total crashes, show a higher proportion of fatal crashes relative to total incidents, suggesting greater severity per crash outside metropolitan areas. Peak crash locations are generally consistent with major arterial roads and high-traffic corridors.</li>
+
+<li> <p align="justify"> oad and Environmental Factors: Most crashes occur on sealed, dry roads in fine weather, reflecting normal traffic conditions, though wet, icy, or unsealed surfaces show a higher severity per incident. Reduced visibility due to darkness, dusk, or dawn is associated with more serious injuries and fatalities. Crashes are common where street lighting is absent, off, or unknown, and intersections without signals are higher-risk zones. Roadside hazards, including trees, utility poles, fences, and embankments, contribute significantly to crash severity, highlighting environmental risk factors.</li>
+
+<li> <p align="justify"> Regional Crash Patterns: Urban areas dominate in total crashes and injury counts, largely due to higher traffic volumes and congestion, whereas rural areas have a relatively higher fatality rate per crash. Across years, crash counts show slight fluctuations: minor and moderate injuries form the bulk of incidents, serious injuries fluctuate, and fatal crashes remain low but persistent. Peak crash periods correspond to commuting hours (06:00–09:59 and 14:00–17:59) and lunch-time peaks (12:00–13:59), with weekend patterns reflecting leisure travel.</li>
+
+<li> <p align="justify"> Crash Severity and Injury Outcomes: Approximately 70% of crashes result in some form of injury (minor, moderate, or serious), while fatal crashes are around 1–2% of total incidents. Non-casualty (towaway) crashes dominate urban areas, with fatalities disproportionately higher in rural regions. Weather and lighting conditions influence severity: adverse weather and poor lighting increase the likelihood of serious or fatal outcomes, even if total crash frequency is lower.</li>
+
+<li> <p align="justify"> Vehicle Involvement and Impact Roles: Cars dominate the vehicles involved in crashes (~70%), followed by light trucks and motorcycles, while vulnerable road users such as pedestrians and cyclists make up a smaller but high-risk segment. Key traffic units—vehicles involved in the first impact—represent over half of units involved, while secondary or peripheral units contribute to chain-reaction crashes. Most crashes occur on the street of travel, with north-south corridors showing slightly higher volumes, highlighting directional traffic risk patterns.</li>
+</ul>
+
+<li> <p align="justify"> Recommendations at this stage: <br>
+Urban LGAs and high-crash streets should focus on traffic management, safer intersections, congestion mitigation, and road design improvements to reduce injury and property-damage crashes, while rural areas require targeted interventions to lower fatal crashes through speed enforcement, enhanced signage, and improved road lighting. Road safety can be further enhanced by upgrading street lighting, maintaining and improving road surfaces, and managing roadside hazards such as trees, utility poles, fences, and embankments. Public campaigns should emphasize safe driving during adverse weather, wet or icy roads, and low-light conditions, with integration of weather-based traffic warnings and promotion of proper headlight use. Safety measures should target high-risk maneuvers, key traffic units, and vulnerable road users like pedestrians and cyclists, particularly at intersections and high-traffic streets. Peak crash periods, including morning and afternoon commutes, should be prioritized for enforcement, traffic monitoring, and emergency response readiness. Finally, improving data quality for critical fields such as street names, lighting conditions, vehicle roles, and crash locations is essential to accurately identify hotspots, evaluate interventions, and support evidence-based planning. </p></li>
+
+
 ## Insights deep dive:
-<ol>
-<li>Overall road collision analysis:</li>
-<ul> 
- <!-- <img width="725" height="180" alt="2 year of crash and types of injuries basic" src="https://github.com/user-attachments/assets/2bf47dca-fc0b-4b81-b7c3-3db8efcdc6bc" /> -->
-
-
-<li> <p align="justify"> Geo-Spatial Analysis: Crashes are highly concentrated in urban LGAs such as Canterbury-Bankstown, Central Coast, Blacktown, Sydney, and Parramatta, with some high-crash streets like Pacific St, Canterbury Rd, Western Rd, and Hume Hwy contributing disproportionately to total incidents. Rural LGAs, while having fewer total crashes, show a higher proportion of fatal crashes relative to total incidents, suggesting greater severity per crash outside metropolitan areas. Peak crash locations are generally consistent with major arterial roads and high-traffic corridors.</li>
-
-<li> <p align="justify"> Road-Wise Patterns: Most crashes occur on sealed, dry roads in fine weather, reflecting normal traffic conditions, though wet, icy, or unsealed surfaces show a higher severity per incident. Reduced visibility due to darkness, dusk, or dawn is associated with more serious injuries and fatalities. Crashes are common where street lighting is absent, off, or unknown, and intersections without signals are higher-risk zones. Roadside hazards, including trees, utility poles, fences, and embankments, contribute significantly to crash severity, highlighting environmental risk factors.</li>
-
-<li> <p align="justify"> Region-Wise Trends: Urban areas dominate in total crashes and injury counts, largely due to higher traffic volumes and congestion, whereas rural areas have a relatively higher fatality rate per crash. Across years, crash counts show slight fluctuations: minor and moderate injuries form the bulk of incidents, serious injuries fluctuate, and fatal crashes remain low but persistent. Peak crash periods correspond to commuting hours (06:00–09:59 and 14:00–17:59) and lunch-time peaks (12:00–13:59), with weekend patterns reflecting leisure travel.</li>
-
-<li> <p align="justify"> Injury-Wise Distribution: Approximately 70% of crashes result in some form of injury (minor, moderate, or serious), while fatal crashes are around 1–2% of total incidents. Non-casualty (towaway) crashes dominate urban areas, with fatalities disproportionately higher in rural regions. Weather and lighting conditions influence severity: adverse weather and poor lighting increase the likelihood of serious or fatal outcomes, even if total crash frequency is lower.</li>
-
-<li> <p align="justify"> Vehicle Type & Role: Cars dominate the vehicles involved in crashes (~70%), followed by light trucks and motorcycles, while vulnerable road users such as pedestrians and cyclists make up a smaller but high-risk segment. Key traffic units—vehicles involved in the first impact—represent over half of units involved, while secondary or peripheral units contribute to chain-reaction crashes. Most crashes occur on the street of travel, with north-south corridors showing slightly higher volumes, highlighting directional traffic risk patterns.</li>
-
-
-
-
-<li> <p align="justify">ABOUT ROAD</p></li>
-
-</ul> 
-
-<li>Region wise analysis:</li>
-<ul> <li><p align="justify"> The Sydney Metropolitan area recorded the highest number of crashes, which is expected due to its high population density.  </p> </li></ul>
-
-
-<li>Analysis by road type:</li> </ol>
-
-
 ## Recommendations:
 
 ##  Power BI report and dashboard: 
