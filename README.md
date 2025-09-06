@@ -57,36 +57,16 @@ The Number of road collisions has reduced gradually from 2016 to 2021 however, i
 <ul> 
  <!-- <img width="725" height="180" alt="2 year of crash and types of injuries basic" src="https://github.com/user-attachments/assets/2bf47dca-fc0b-4b81-b7c3-3db8efcdc6bc" /> -->
 
-  <li> <p align="justify">
-A higher average number of crashes per day occurred on weekends during several late-night and midday intervals, particularly between 12:00 PM–2:00 PM and midnight–2:00 AM.
-Weekday crashes dominated during morning commute hours (6:00 AM–10:00 AM) and late afternoon (4:00 PM–6:00 PM), aligning with typical workday traffic patterns.
-Overall, more 2-hour intervals showed a weekend trend in crash density, though weekdays were consistently high during peak traffic times.
-These trends highlight potential risk periods for targeted road safety interventions depending on the day of the week and time of day.</li>
 
-<li> <p align="justify"> Based on the crash data, Fridays recorded the highest number of crashes, followed closely by Thursdays and Wednesdays, indicating that the latter part of the workweek sees the most incidents. Saturdays also had a high number of crashes, surpassing most weekdays except Friday, suggesting increased weekend activity. Tuesdays and Mondays had slightly lower counts, while Sundays consistently saw the fewest crashes, potentially due to reduced travel and work-related traffic. This pattern highlights a clear spike in crashes toward the end of the workweek and into the weekend. 
+<li> <p align="justify"> Geo-Spatial Analysis: Crashes are highly concentrated in urban LGAs such as Canterbury-Bankstown, Central Coast, Blacktown, Sydney, and Parramatta, with some high-crash streets like Pacific St, Canterbury Rd, Western Rd, and Hume Hwy contributing disproportionately to total incidents. Rural LGAs, while having fewer total crashes, show a higher proportion of fatal crashes relative to total incidents, suggesting greater severity per crash outside metropolitan areas. Peak crash locations are generally consistent with major arterial roads and high-traffic corridors.</li>
 
-<!-- <img width="250" height="200" alt="3 day wise crashes" src="https://github.com/user-attachments/assets/027c44b3-a1de-4971-a0cb-bcb6880b4439" /> -->
+<li> <p align="justify"> Road-Wise Patterns: Most crashes occur on sealed, dry roads in fine weather, reflecting normal traffic conditions, though wet, icy, or unsealed surfaces show a higher severity per incident. Reduced visibility due to darkness, dusk, or dawn is associated with more serious injuries and fatalities. Crashes are common where street lighting is absent, off, or unknown, and intersections without signals are higher-risk zones. Roadside hazards, including trees, utility poles, fences, and embankments, contribute significantly to crash severity, highlighting environmental risk factors.</li>
 
-</p></li>
+<li> <p align="justify"> Region-Wise Trends: Urban areas dominate in total crashes and injury counts, largely due to higher traffic volumes and congestion, whereas rural areas have a relatively higher fatality rate per crash. Across years, crash counts show slight fluctuations: minor and moderate injuries form the bulk of incidents, serious injuries fluctuate, and fatal crashes remain low but persistent. Peak crash periods correspond to commuting hours (06:00–09:59 and 14:00–17:59) and lunch-time peaks (12:00–13:59), with weekend patterns reflecting leisure travel.</li>
 
-<li> <p align="justify"> The crash data from 2016 to 2023 reveals that Greater Sydney has the highest crash count (69,281) due to its large population and numerous local areas. The Far West & Remote region follows with 45,019 crashes, driven by its expansive geography and sparsely populated areas. North Coast & Hunter reports 30,819 crashes, reflecting a combination of urban centres and popular tourist destinations. The South Coast & ACT Region and Central West & Tablelands have fewer crashes, at 10,666 and 8,646. Respectively, due to their lower population densities and fewer regions. These patterns emphasise how population size and geographic spread influence crash totals across different areas. </p></li> 
-<!-- <img width="168" alt="4 region wise crashes" src="https://github.com/user-attachments/assets/23c5c975-9c76-4fbf-a93c-4ca2c1c72603" /> -->
+<li> <p align="justify"> Injury-Wise Distribution: Approximately 70% of crashes result in some form of injury (minor, moderate, or serious), while fatal crashes are around 1–2% of total incidents. Non-casualty (towaway) crashes dominate urban areas, with fatalities disproportionately higher in rural regions. Weather and lighting conditions influence severity: adverse weather and poor lighting increase the likelihood of serious or fatal outcomes, even if total crash frequency is lower.</li>
 
-<li><p align="justify"> From 2016 to 2023, 64.91% of crashes occurred in daylight, followed by 25.23% in darkness, highlighting the need for improved visibility and nighttime safety measures. Dusk and dawn account for 9.60%, indicating higher risk during transitional lighting. Unknown lighting conditions make up only 0.25%, suggesting room for better data accuracy. Overall, the focus should be on human factors, visibility improvements, and data quality.</p>
-<!-- <img width="209" alt="5 weather wise crashes" src="https://github.com/user-attachments/assets/877bd032-45fc-4009-ae5d-98529d7a654c" /> -->
-
-</li>
-<li> <p align="justify">
-From 2016 to 2023, 31.47% of crashes resulted in Non-casualty (towaway), with 51,750 incidents, indicating that a significant portion of crashes do not cause injuries but lead to vehicle damage. Moderate injuries accounted for 27.76% with 45,639 cases, while Serious injuries contributed 20.71% with 34,060 incidents. Minor/Other injuries made up 18.57% of crashes, totalling 30,530, and Fatal crashes were the least frequent at 1.49%, with 2,452 incidents. These figures highlight the need for targeted safety measures, especially for moderate and serious injuries. </p>
-
-<!-- <img width="245" alt="6 injury distribution" src="https://github.com/user-attachments/assets/c8f8a4cb-dc5c-486c-947a-0a786e95683f" /> -->
-</li>
-
-<li> <p align="justify">The highest number of crashes occurred during these peak hours, with 16:00 - 17:59 (24,513 crashes) and 14:00 - 15:59 (22,901 crashes) leading, aligning with evening rush hour and post-work congestion. Other notable periods include 12:00 - 13:59 (18,687 crashes) and 08:00 - 09:59 (17,629 crashes), corresponding to midday and morning peak times. Evening intervals like 18:00 - 19:59 (16,445 crashes) and 20:00 - 21:59 (11,054 crashes) also see a significant number of crashes, likely due to reduced visibility. Early morning and late-night periods show fewer crashes, with the Unknown category reporting just 11 incidents<br> </p>
-<!-- <img width="148" alt="7 2 hour interval" src="https://github.com/user-attachments/assets/5aa99fc0-97c6-4803-a8ac-5c4f71274335" /> -->
-</li>
-
-<li> <p align="justify">Vehicles like sedans and hatchbacks have the most crashes. It is followed by other 4-wheel vehicles, and then trucks and motorcycles. Sedans and hatchbacks were involved in 75,690 crashes, which is more than the total of all four wheel drives, light trucks, and motorcycles (the next four vehicle types) combined. These vehicles also account for the majority of crashes in  every two hour interval throughout the day, and also during low visibility hours.  </p></li>
+<li> <p align="justify"> Vehicle Type & Role: Cars dominate the vehicles involved in crashes (~70%), followed by light trucks and motorcycles, while vulnerable road users such as pedestrians and cyclists make up a smaller but high-risk segment. Key traffic units—vehicles involved in the first impact—represent over half of units involved, while secondary or peripheral units contribute to chain-reaction crashes. Most crashes occur on the street of travel, with north-south corridors showing slightly higher volumes, highlighting directional traffic risk patterns.</li>
 
 
 
