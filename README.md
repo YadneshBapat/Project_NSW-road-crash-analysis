@@ -134,6 +134,10 @@ Gaps in crash data—especially lighting, weather, and maneuver details—limit 
 Overall, a multi-faceted approach combining safer infrastructure, stricter enforcement, improved vehicle technologies, vulnerable user protection, and stronger data systems will yield the greatest reduction in crash frequency and severity.
 
 ##  Power BI report and dashboard: 
+[nsw road crash report 1.pdf](https://github.com/user-attachments/files/22399883/nsw.road.crash.report.1.pdf)
+
+
+
 ## test
 ### 1. Injury & Severity Analysis
 
