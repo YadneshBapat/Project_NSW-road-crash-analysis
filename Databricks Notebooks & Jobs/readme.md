@@ -1,8 +1,8 @@
 
 
 ### Notebooks generated during the project in order are:
-<ol> 1. nsw bronze crash load (incrementally load)</ol>
-<ol> 2. nsw bronze traffic load (incrementally load)</ol>
+<ol> 1. nsw bronze crash load (incremental load)</ol>
+<ol> 2. nsw bronze traffic load (incremental load)</ol>
 <ol> 3. nsw crash silver </ol>
 <ol> 4. nsw traffic silver </ol>
 <ol> 5. nsw gold crash new </ol>
