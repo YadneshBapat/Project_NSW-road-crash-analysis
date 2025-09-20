@@ -1,9 +1,4 @@
-
-
 <img width="1746" height="688" alt="nsw project 1" src="https://github.com/user-attachments/assets/f0e17fa9-30c1-41c5-b7a9-6d03c04b8318" />
-
-
-
 
 ## Table of Contents:
 - [Project Background](#project-background)
@@ -74,22 +69,141 @@ The Number of road collisions has reduced gradually from 2016 to 2021 however, i
 
 ## Insights deep dive:
 
-#### Comprehensive Insights into Crash Injuries and Contributing Factors: 1. Injury & Severity Analysis
+### 1. Comprehensive Insights into Crash Injuries and Contributing Factors: 1. Injury & Severity Analysis
 <p align="justify">The injury analysis underscores the substantial burden that road crashes place on public health, emergency services, and broader society. While fatalities, at **2,649**, represent only about **1.8%** of all recorded crash outcomes, the total of **38,079 serious injuries (≈26%)** and **59,520 moderate injuries (≈41%)** highlights the much wider impact of crashes beyond deaths. These injuries often require hospitalisation, prolonged medical care, rehabilitation, and can significantly disrupt workforce participation, placing a major socioeconomic strain on families and the healthcare system. Cars and car derivatives dominate crash involvement, accounting for **2,184 fatalities (≈82% of all deaths)**, as well as the majority of serious and moderate injuries, reflecting both their high presence on roads and involvement in multi-vehicle collisions. Light trucks and motorcycles, though less frequent, contribute disproportionately to severe outcomes, with motorcycles showing a particularly high fatality rate per incident. Heavy vehicles, such as articulated and rigid trucks, are involved in fewer crashes but produce more severe outcomes when incidents occur, highlighting the heightened risks associated with mass and momentum.</p> <p align="justify">Road type and design significantly shape injury outcomes. Fatal crashes are highly concentrated on **2-way undivided roads**, which account for **over 64% of all fatalities**, due to the high risk of head-on or side-impact collisions in uncontrolled traffic environments. Intersections, particularly **T- and X-junctions**, are hotspots for serious and moderate injuries, with thousands of incidents concentrated around crossing and turning maneuvers. Conversely, roundabouts mitigate fatal outcomes due to lower impact speeds, though moderate injuries remain frequent. **Dual carriageways and controlled-access freeways**, despite higher speeds, record comparatively fewer crashes and injuries due to design features such as limited access points, grade separation, and improved traffic flow management. Overall, this analysis highlights the layered nature of crash risks, where vehicle type, road design, and traffic management combine to determine both crash frequency and severity.</p>
 
-#### Temporal and Geospatial Insights into Crash Risk Patterns 2. Geospatial Analysis
+
+<table>
+  <thead>
+    <tr>
+      <th>Vehicle Type</th>
+      <th>Fatalities</th>
+      <th>Serious Injuries</th>
+      <th>Moderate Injuries</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td>Car / Car Derivative</td><td>5351</td><td>99263</td><td>193480</td></tr>
+    <tr><td>Light Truck</td><td>1695</td><td>21443</td><td>40231</td></tr>
+    <tr><td>Pedestrian</td><td>1299</td><td>11311</td><td>11067</td></tr>
+    <tr><td>Motorcycle</td><td>1235</td><td>20989</td><td>17041</td></tr>
+    <tr><td>Articulated Truck</td><td>610</td><td>2853</td><td>4074</td></tr>
+    <tr><td>Heavy Rigid Truck</td><td>607</td><td>3282</td><td>5609</td></tr>
+    <tr><td>Pedal Cycle</td><td>231</td><td>5991</td><td>6719</td></tr>
+    <tr><td>Bus</td><td>142</td><td>1155</td><td>2290</td></tr>
+    <tr><td>Other Motor Vehicle</td><td>97</td><td>2019</td><td>3416</td></tr>
+    <tr><td>Non-Motorised Vehicle</td><td>32</td><td>261</td><td>412</td></tr>
+    <tr><td>Other or Unknown</td><td>17</td><td>89</td><td>169</td></tr>
+  </tbody>
+</table>
+
+#### Vehicle Type vs. Injuries
+
+
+### 2.Temporal and Geospatial Insights into Crash Risk Patterns 
+
 <p align="justify">Crash risk is not uniformly distributed but heavily concentrated in urban centers and specific corridors. Urban LGAs, including **Canterbury-Bankstown, Blacktown, Central Coast, Sydney, and Parramatta**, experience the highest number of crashes, predominantly resulting in injuries rather than fatalities, due to high population density, vehicle volumes, and complex road networks. These areas have a large number of intersections, pedestrian crossings, and congested streets, which increases exposure to potential conflicts. In contrast, rural LGAs show fewer total crashes but disproportionately higher fatality rates, likely driven by higher travel speeds, more hazardous roads, and delayed emergency response times, which exacerbate the consequences of incidents when they occur.</p> <p align="justify">At the street level, corridors such as **Canterbury Road, Pacific Highway, and Western Road** are identified as high-crash areas. These routes experience heavy commuter and freight traffic combined with multiple access points, turning lanes, and high-speed sections, increasing the likelihood of both collisions and severe outcomes. Two-way undivided roads consistently emerge as the most dangerous, with the highest fatalities and serious injuries, especially when combined with roadside hazards such as trees, fences, and utility poles. Intersections, particularly T- and X-junctions, concentrate injury crashes due to crossing conflicts and turning movements. While roundabouts and dual carriageways reduce fatalities due to traffic-calming effects and lane separation, they still contribute to moderate injury clusters. These geospatial insights emphasize the need for context-specific interventions, such as targeted enforcement, localized infrastructure improvements, and safer intersection designs to reduce both injury and fatality risks.</p>
 
-3. Environmental & Infrastructure Factors
+
+<table>
+  <thead>
+    <tr>
+      <th>Road Type</th>
+      <th>Total Crashes</th>
+      <th>Fatalities</th>
+      <th>Serious Injuries</th>
+      <th>Moderate Injuries</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td>2-way undivided</td><td>62376</td><td>1712</td><td>17143</td><td>22377</td></tr>
+    <tr><td>T-junction</td><td>39951</td><td>344</td><td>8593</td><td>14738</td></tr>
+    <tr><td>Divided road</td><td>18815</td><td>283</td><td>3878</td><td>6201</td></tr>
+    <tr><td>X-intersection</td><td>25150</td><td>157</td><td>4979</td><td>10225</td></tr>
+    <tr><td>Dual freeway</td><td>6982</td><td>84</td><td>1450</td><td>2288</td></tr>
+    <tr><td>Roundabout</td><td>8797</td><td>43</td><td>1500</td><td>2870</td></tr>
+    <tr><td>Other</td><td>738</td><td>14</td><td>193</td><td>250</td></tr>
+    <tr><td>1-way street</td><td>731</td><td>5</td><td>146</td><td>216</td></tr>
+    <tr><td>Multiple intersection</td><td>204</td><td>3</td><td>47</td><td>73</td></tr>
+    <tr><td>Y-junction</td><td>194</td><td>2</td><td>43</td><td>80</td></tr>
+    <tr><td>Single limited access</td><td>155</td><td>1</td><td>36</td><td>49</td></tr>
+    <tr><td>L-junction</td><td>396</td><td>1</td><td>70</td><td>148</td></tr>
+    <tr><td>Unknown</td><td>10</td><td>0</td><td>1</td><td>5</td></tr>
+  </tbody>
+</table> 
+
+####  Road Type vs. Crashes & Injuries
+
+
+### 3. Environmental & Infrastructure Factors
 <p align="justify">Environmental and infrastructure conditions play a pivotal role in crash likelihood and severity. While most crashes occur in fine weather due to higher exposure and travel volumes, adverse conditions, such as rain, fog, and darkness, significantly amplify risk. Wet road surfaces are associated with a marked increase in moderate and serious injuries, as vehicles lose traction and braking distances increase. Fog, though less frequent, produces disproportionately high fatalities due to reduced visibility, delayed driver response, and potential multi-vehicle pileups on high-speed roads. Crashes in poorly lit areas (“dark with no lighting”) are similarly dangerous, contributing significantly to the fatality count and emphasizing the importance of street lighting and visibility improvement measures.</p> <p align="justify">Roadside hazards further exacerbate crash outcomes. Fixed objects, including trees, fences, embankments, and utility poles, contribute significantly to fatalities and serious injuries, particularly on undivided roads where vehicles are more likely to leave the carriageway. Multi-vehicle collisions that occur in the presence of such hazards are often far more severe. Infrastructure interventions—such as expanded street lighting, anti-skid surfacing, roadside vegetation management, protective barriers, and wildlife warning systems—can reduce crash severity, particularly in rural or semi-urban environments. These insights demonstrate that while driver behavior is critical, the physical environment largely determines whether crashes are survivable or fatal, making infrastructure improvements a central element of road safety strategy.</p>
 
-4. Vehicle & Behavioral Insights
+
+<table>
+  <thead>
+    <tr>
+      <th>Weather</th>
+      <th>Total Crashes</th>
+      <th>Fatalities</th>
+      <th>Serious Injuries</th>
+      <th>Moderate Injuries</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td>Fine</td><td>133058</td><td>2100</td><td>31238</td><td>48144</td></tr>
+    <tr><td>Raining</td><td>18054</td><td>244</td><td>3821</td><td>6414</td></tr>
+    <tr><td>Overcast</td><td>10337</td><td>236</td><td>2279</td><td>3854</td></tr>
+    <tr><td>Fog or mist</td><td>1002</td><td>33</td><td>236</td><td>407</td></tr>
+    <tr><td>Unknown</td><td>1615</td><td>26</td><td>426</td><td>550</td></tr>
+    <tr><td>Other</td><td>278</td><td>8</td><td>53</td><td>94</td></tr>
+    <tr><td>Snowing</td><td>155</td><td>2</td><td>26</td><td>57</td></tr>
+  </tbody>
+</table>
+
+#### Weather vs. Crashes & Injuries
+
+
+### 4. Vehicle & Behavioral Insights
 <p align="justify">Vehicle involvement data shows that cars dominate crash statistics, while motorcycles, light trucks, and other high-risk vehicles contribute disproportionately to severe outcomes. Cars account for the majority of fatalities and injuries due to their volume on the road, but motorcycles and light trucks exhibit far higher injury severity per incident. Vulnerable road users—pedestrians and cyclists—experience disproportionately high fatality and serious injury rates. Pedestrian fatalities are concentrated among individuals crossing carriageways mid-block, running into traffic, or standing outside designated crossings, with vehicle contact being the primary cause rather than collisions with fixed objects. These findings highlight the urgent need for protective infrastructure, including dedicated lanes, safe crossings, and separation from vehicle traffic, as well as behavioral interventions such as pedestrian education programs.</p> <p align="justify">Behavioral analysis also shows that high-frequency, low-risk maneuvers like lane travel contribute mainly to minor and moderate injuries, whereas dangerous maneuvers—wrong-side driving, unsafe turning, U-turns, and mid-block pedestrian crossings—produce a disproportionate share of serious and fatal outcomes. Intersections amplify these risks, creating concentrated points for turning and crossing conflicts. Urban congestion and parked vehicles further increase exposure, highlighting the interaction between road design and human behavior. Mitigating these risks requires a combination of enforcement (speeding, dangerous maneuvers, impaired driving), engineering (safer intersections, clearer lane markings), and education to reduce high-risk behavior, particularly for vulnerable road users.</p>
 
-5. Data Quality & Monitoring
+
+<table>
+  <thead>
+    <tr>
+      <th>Maneuver</th>
+      <th>Total Crashes</th>
+      <th>Fatalities</th>
+      <th>Serious Injuries</th>
+      <th>Moderate Injuries</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td>Proceeding in lane</td><td>433197</td><td>6875</td><td>100437</td><td>168014</td></tr>
+    <tr><td>Incorrect side</td><td>15951</td><td>1261</td><td>7489</td><td>9327</td></tr>
+    <tr><td>Walk across carriageway</td><td>11784</td><td>503</td><td>5550</td><td>5258</td></tr>
+    <tr><td>Turning right</td><td>59671</td><td>493</td><td>15011</td><td>25178</td></tr>
+    <tr><td>Ped not on carriageway</td><td>2396</td><td>305</td><td>1476</td><td>1867</td></tr>
+    <tr><td>Parked</td><td>49964</td><td>259</td><td>7685</td><td>12983</td></tr>
+    <tr><td>Stationary</td><td>66745</td><td>246</td><td>8558</td><td>24776</td></tr>
+    <tr><td>Run across carriageway</td><td>3587</td><td>127</td><td>1983</td><td>1544</td></tr>
+    <tr><td>Pull out opposite</td><td>2878</td><td>108</td><td>985</td><td>1251</td></tr>
+    <tr><td>Stand on carriageway</td><td>1660</td><td>107</td><td>727</td><td>850</td></tr>
+    <tr><td>Turning left</td><td>16081</td><td>92</td><td>3227</td><td>5163</td></tr>
+    <tr><td>Other forward</td><td>24599</td><td>81</td><td>1196</td><td>4551</td></tr>
+    <tr><td>Other ped manoeuvre</td><td>956</td><td>80</td><td>381</td><td>402</td></tr>
+    <tr><td>Forward from drive</td><td>8530</td><td>67</td><td>1710</td><td>2955</td></tr>
+    <tr><td>Broken down</td><td>1203</td><td>65</td><td>354</td><td>489</td></tr>
+  </tbody>
+</table>
+
+#### Crash Data by Maneuver
+
+
+### 5. Data Quality & Monitoring
 <p align="justify">SQL analysis also revealed challenges in crash data completeness and quality. Missing or “unknown” values for critical variables—such as lighting conditions, weather, and precise street location—limit the reliability of hotspot identification and the attribution of risk factors. Without accurate environmental data, it is difficult to quantify the contribution of conditions like wet roads or poor visibility to crash severity. Similarly, incomplete location data restricts the ability to identify high-risk corridors and intersections, limiting evidence-based intervention planning.</p> <p align="justify">Enhancing crash monitoring and reporting requires both technological and procedural improvements. Field officers should be trained to capture accurate and comprehensive crash details, including lighting, weather, maneuvers, and GPS coordinates. Automated data collection—via roadside sensors, integrated weather monitoring, and GPS-enabled reporting—can supplement manual records and reduce errors. Integrating crash data with hospital records, insurance claims, and traffic flow datasets can provide a richer, more holistic view of crashes and outcomes. Regular audits and validation checks should also be implemented. Strengthened data quality and monitoring will improve analysis accuracy, enable targeted interventions, and support more effective, evidence-based road safety strategies.</p>
+<br>
 
-
+  
 ## Recommendations Report:
 
 1. Injury & Severity Analysis
@@ -124,193 +238,3 @@ The Number of road collisions has reduced gradually from 2016 to 2021 however, i
 
 ##  Power BI report and dashboard: 
 [nsw road crash report 1.pdf](https://github.com/user-attachments/files/22399883/nsw.road.crash.report.1.pdf)
-
-## test
-### 1. Injury & Severity Analysis
-
-<p align="justify">
-The injury analysis highlights the substantial burden of road crashes on public health and emergency services. While fatalities (total 11,225) represent a smaller fraction of outcomes compared to injuries, the total serious (151,786) and moderate injuries (276,656) illustrate the broad impact on healthcare systems and socio-economic stability. Cars and car derivatives dominate across all injury categories, responsible for 5,351 fatalities, 99,263 serious injuries, and 193,480 moderate injuries, reflecting both their prevalence on roads and involvement in multi-vehicle collisions. Light trucks and motorcycles, although fewer in number, contribute disproportionately to fatalities and severe injuries, emphasizing high-risk outcomes for these vehicles. Vulnerable road users, such as pedestrians (1,299 fatalities, 11,311 serious, 11,067 moderate) and pedal cyclists (231 fatalities, 5,991 serious, 6,719 moderate), exhibit high severity relative to their numbers, highlighting the need for targeted protective measures.
-</p>
-
-<p align="justify">
-Heavy vehicles, including articulated trucks (610 fatalities, 2,853 serious, 4,074 moderate) and rigid trucks (607 fatalities, 3,282 serious, 5,609 moderate), have lower crash frequencies but significantly higher severity when involved. Buses (142 fatalities, 1,155 serious, 2,290 moderate) and other motor vehicles (97 fatalities, 2,019 serious, 3,416 moderate) contribute fewer incidents overall. Non-motorised vehicles (32 fatalities, 261 serious, 412 moderate) and unknown types (17 fatalities, 89 serious, 169 moderate) make up a small proportion of outcomes but still highlight the diversity of road users affected. These figures underscore the layered nature of injury risk: high-frequency vehicles like cars drive the majority of total injuries, while high-risk and vulnerable users are more likely to experience severe or fatal outcomes.
-</p>
-
-#### Vehicle Type vs. Injuries
-
-<table>
-  <thead>
-    <tr>
-      <th>Vehicle Type</th>
-      <th>Fatalities</th>
-      <th>Serious Injuries</th>
-      <th>Moderate Injuries</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr><td>Car / Car Derivative</td><td>5351</td><td>99263</td><td>193480</td></tr>
-    <tr><td>Light Truck</td><td>1695</td><td>21443</td><td>40231</td></tr>
-    <tr><td>Pedestrian</td><td>1299</td><td>11311</td><td>11067</td></tr>
-    <tr><td>Motorcycle</td><td>1235</td><td>20989</td><td>17041</td></tr>
-    <tr><td>Articulated Truck</td><td>610</td><td>2853</td><td>4074</td></tr>
-    <tr><td>Heavy Rigid Truck</td><td>607</td><td>3282</td><td>5609</td></tr>
-    <tr><td>Pedal Cycle</td><td>231</td><td>5991</td><td>6719</td></tr>
-    <tr><td>Bus</td><td>142</td><td>1155</td><td>2290</td></tr>
-    <tr><td>Other Motor Vehicle</td><td>97</td><td>2019</td><td>3416</td></tr>
-    <tr><td>Non-Motorised Vehicle</td><td>32</td><td>261</td><td>412</td></tr>
-    <tr><td>Other or Unknown</td><td>17</td><td>89</td><td>169</td></tr>
-  </tbody>
-</table>
-
-
-### 2. Geospatial & Road Type Analysis
-
-<p align="justify">
-The geospatial and road type analysis highlights the critical influence of road design on crash frequency and severity. Two-way undivided roads are the most hazardous, recording 62,376 crashes, 1,712 fatalities, 17,143 serious injuries, and 22,377 moderate injuries. T-junctions (39,951 crashes, 344 fatalities, 8,593 serious, 14,738 moderate) and X-intersections (25,150 crashes, 157 fatalities, 4,979 serious, 10,225 moderate) emerge as hotspots for injury crashes due to crossing and turning conflicts. Divided roads (18,815 crashes, 283 fatalities, 3,878 serious, 6,201 moderate) and dual freeways (6,982 crashes, 84 fatalities, 1,450 serious, 2,288 moderate) demonstrate that controlled-access designs reduce both crash frequency and severity. Roundabouts, while reducing fatal outcomes (43 fatalities), still contribute significantly to injuries (1,500 serious, 2,870 moderate), highlighting their mixed impact on road safety.
-</p>
-
-<p align="justify">
-Less common configurations such as 1-way streets, multiple intersections, Y- and L-junctions, and single limited access roads have lower overall crash counts but may still produce notable injury outcomes per crash due to localized risk factors. For instance, L-junctions recorded 396 crashes, 1 fatality, 70 serious, and 148 moderate injuries, illustrating that even lower-frequency locations require safety interventions. Collectively, these data demonstrate that undivided roads and intersections dominate both crash occurrence and injury outcomes, emphasizing the need for targeted infrastructure improvements such as traffic separation, improved signage, safer turning lanes, and pedestrian protection measures to reduce both fatalities and serious injuries.
-</p>
-
-#### Road Type vs. Crashes & Injuries
-
-<table>
-  <thead>
-    <tr>
-      <th>Road Type</th>
-      <th>Total Crashes</th>
-      <th>Fatalities</th>
-      <th>Serious Injuries</th>
-      <th>Moderate Injuries</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr><td>2-way undivided</td><td>62376</td><td>1712</td><td>17143</td><td>22377</td></tr>
-    <tr><td>T-junction</td><td>39951</td><td>344</td><td>8593</td><td>14738</td></tr>
-    <tr><td>Divided road</td><td>18815</td><td>283</td><td>3878</td><td>6201</td></tr>
-    <tr><td>X-intersection</td><td>25150</td><td>157</td><td>4979</td><td>10225</td></tr>
-    <tr><td>Dual freeway</td><td>6982</td><td>84</td><td>1450</td><td>2288</td></tr>
-    <tr><td>Roundabout</td><td>8797</td><td>43</td><td>1500</td><td>2870</td></tr>
-    <tr><td>Other</td><td>738</td><td>14</td><td>193</td><td>250</td></tr>
-    <tr><td>1-way street</td><td>731</td><td>5</td><td>146</td><td>216</td></tr>
-    <tr><td>Multiple intersection</td><td>204</td><td>3</td><td>47</td><td>73</td></tr>
-    <tr><td>Y-junction</td><td>194</td><td>2</td><td>43</td><td>80</td></tr>
-    <tr><td>Single limited access</td><td>155</td><td>1</td><td>36</td><td>49</td></tr>
-    <tr><td>L-junction</td><td>396</td><td>1</td><td>70</td><td>148</td></tr>
-    <tr><td>Unknown</td><td>10</td><td>0</td><td>1</td><td>5</td></tr>
-  </tbody>
-</table>
-
-
-### 3. Environmental & Weather Analysis
-
-<p align="justify">
-Weather conditions significantly influence crash frequency and severity. Most crashes occur during fine weather due to higher traffic exposure, with 133,058 crashes resulting in 2,100 fatalities, 31,238 serious injuries, and 48,144 moderate injuries. However, adverse conditions such as rain, overcast skies, and fog disproportionately increase injury severity per crash. Raining conditions account for 18,054 crashes, 244 fatalities, 3,821 serious injuries, and 6,414 moderate injuries, highlighting the challenges of reduced traction and longer braking distances. Overcast conditions contributed 10,337 crashes with 236 fatalities, 2,279 serious, and 3,854 moderate injuries, while fog or mist, though less frequent at 1,002 crashes, had a high fatality-to-crash ratio with 33 deaths and 236 serious injuries. Snowing conditions, while rare (155 crashes), still resulted in 2 fatalities and 26 serious injuries, illustrating the severity impact of hazardous weather even at low frequency.
-</p>
-
-<p align="justify">
-Unknown or poorly reported weather conditions also contribute to 1,615 crashes, 26 fatalities, 426 serious injuries, and 550 moderate injuries, highlighting gaps in data collection. These statistics underscore the need for infrastructure and driver interventions under adverse conditions, such as improved drainage, anti-skid surfacing, visibility-enhancing signage, and public awareness campaigns to reduce crash risk during inclement weather.
-</p>
-
-#### Weather vs. Crashes & Injuries
-
-<table>
-  <thead>
-    <tr>
-      <th>Weather</th>
-      <th>Total Crashes</th>
-      <th>Fatalities</th>
-      <th>Serious Injuries</th>
-      <th>Moderate Injuries</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr><td>Fine</td><td>133058</td><td>2100</td><td>31238</td><td>48144</td></tr>
-    <tr><td>Raining</td><td>18054</td><td>244</td><td>3821</td><td>6414</td></tr>
-    <tr><td>Overcast</td><td>10337</td><td>236</td><td>2279</td><td>3854</td></tr>
-    <tr><td>Fog or mist</td><td>1002</td><td>33</td><td>236</td><td>407</td></tr>
-    <tr><td>Unknown</td><td>1615</td><td>26</td><td>426</td><td>550</td></tr>
-    <tr><td>Other</td><td>278</td><td>8</td><td>53</td><td>94</td></tr>
-    <tr><td>Snowing</td><td>155</td><td>2</td><td>26</td><td>57</td></tr>
-  </tbody>
-</table>
-
-
-### 4. Geospatial Analysis – High-Risk LGAs
-
-<p align="justify">
-The geospatial distribution of crashes highlights significant variation across urban areas. Canterbury-Bankstown records the highest crash volume among the top 10 LGAs, with 8,883 crashes resulting in 59 fatalities, 1,933 serious injuries, and 2,847 moderate injuries. Central Coast follows closely with 7,626 crashes, 98 fatalities, 1,816 serious injuries, and 2,656 moderate injuries. Blacktown and Sydney also report high crash counts, contributing notably to serious and moderate injuries. Parramatta and Cumberland LGAs display similar patterns, with total crashes ranging from 5,623 to 5,685 and fatalities between 42 and 47. Urban LGAs consistently show higher overall crash numbers but lower fatality rates compared to rural areas, reflecting dense traffic, frequent intersections, and active pedestrian zones.
-</p>
-
-<p align="justify">
-These insights indicate the need for targeted road safety interventions in urban corridors, including infrastructure improvements, pedestrian protection, intersection redesign, and traffic flow management. LGAs with the highest injuries and fatalities should be prioritized for mitigation measures such as enhanced traffic enforcement, safer crossings, and public awareness campaigns to reduce crash risks and improve community safety.
-</p>
-
-#### Top 10 Urban LGAs – Crashes & Injuries
-
-<table>
-  <thead>
-    <tr>
-      <th>LGA</th>
-      <th>Total Crashes</th>
-      <th>Fatalities</th>
-      <th>Serious Injuries</th>
-      <th>Moderate Injuries</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr><td>Canterbury-Bankstown</td><td>8883</td><td>59</td><td>1933</td><td>2847</td></tr>
-    <tr><td>Central Coast</td><td>7626</td><td>98</td><td>1816</td><td>2656</td></tr>
-    <tr><td>Blacktown</td><td>7177</td><td>59</td><td>1353</td><td>2282</td></tr>
-    <tr><td>Sydney</td><td>5750</td><td>44</td><td>1086</td><td>1960</td></tr>
-    <tr><td>Parramatta</td><td>5685</td><td>47</td><td>1024</td><td>1692</td></tr>
-    <tr><td>Cumberland</td><td>5623</td><td>42</td><td>1094</td><td>1793</td></tr>
-    <tr><td>Liverpool</td><td>5272</td><td>41</td><td>1163</td><td>1763</td></tr>
-    <tr><td>Fairfield</td><td>4784</td><td>45</td><td>988</td><td>1709</td></tr>
-    <tr><td>Wollongong</td><td>4181</td><td>47</td><td>1052</td><td>1487</td></tr>
-    <tr><td>Bayside</td><td>4116</td><td>33</td><td>813</td><td>1371</td></tr>
-  </tbody>
-</table>
-
-
-### 5. Vehicle Maneuvers & Behavioral Insights
-
-<p align="justify">
-The analysis of crash maneuvers highlights how driver and pedestrian actions directly influence crash severity. Proceeding in lane is the most frequent maneuver, accounting for 433,197 crashes, including 6,875 fatalities, 100,437 serious injuries, and 168,014 moderate injuries. Despite its high frequency, this maneuver tends to produce fewer fatalities per incident compared to high-risk actions. Incorrect-side driving, while far less frequent with 15,951 crashes, results in 1,261 fatalities and 7,489 serious injuries, showing a disproportionate risk per crash. Pedestrian behaviors such as walking across the carriageway and running across account for significant fatalities (503 and 127 respectively) and serious injuries, indicating the vulnerability of non-motorized road users. Turning maneuvers also contribute heavily, with turning right (59,671 crashes) and turning left (16,081 crashes) generating a high number of serious and moderate injuries, highlighting intersection-related risks. Crashes involving parked and stationary vehicles remain substantial, with tens of thousands of incidents contributing hundreds of fatalities and thousands of injuries, emphasizing the hazards posed by static vehicles in traffic flow.
-</p>
-
-<p align="justify">
-These insights underscore the need for targeted interventions to modify risky behaviors and improve maneuver safety. Strategies include enforcement of lane discipline, education on correct-side driving, safer intersection designs to reduce turning conflicts, and pedestrian infrastructure improvements to minimize mid-block crossing risks. Additionally, measures such as clear parking regulations, protected pull-out areas, and warning systems around stationary vehicles can help mitigate incidents related to non-moving vehicles. Understanding how specific maneuvers contribute to crash frequency and severity allows policymakers to prioritize interventions for the most dangerous behaviors, ultimately improving road safety for both vehicle occupants and vulnerable road users.
-</p>
-
-#### Crash Data by Maneuver
-
-<table>
-  <thead>
-    <tr>
-      <th>Maneuver</th>
-      <th>Total Crashes</th>
-      <th>Fatalities</th>
-      <th>Serious Injuries</th>
-      <th>Moderate Injuries</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr><td>Proceeding in lane</td><td>433197</td><td>6875</td><td>100437</td><td>168014</td></tr>
-    <tr><td>Incorrect side</td><td>15951</td><td>1261</td><td>7489</td><td>9327</td></tr>
-    <tr><td>Walk across carriageway</td><td>11784</td><td>503</td><td>5550</td><td>5258</td></tr>
-    <tr><td>Turning right</td><td>59671</td><td>493</td><td>15011</td><td>25178</td></tr>
-    <tr><td>Ped not on carriageway</td><td>2396</td><td>305</td><td>1476</td><td>1867</td></tr>
-    <tr><td>Parked</td><td>49964</td><td>259</td><td>7685</td><td>12983</td></tr>
-    <tr><td>Stationary</td><td>66745</td><td>246</td><td>8558</td><td>24776</td></tr>
-    <tr><td>Run across carriageway</td><td>3587</td><td>127</td><td>1983</td><td>1544</td></tr>
-    <tr><td>Pull out opposite</td><td>2878</td><td>108</td><td>985</td><td>1251</td></tr>
-    <tr><td>Stand on carriageway</td><td>1660</td><td>107</td><td>727</td><td>850</td></tr>
-    <tr><td>Turning left</td><td>16081</td><td>92</td><td>3227</td><td>5163</td></tr>
-    <tr><td>Other forward</td><td>24599</td><td>81</td><td>1196</td><td>4551</td></tr>
-    <tr><td>Other ped manoeuvre</td><td>956</td><td>80</td><td>381</td><td>402</td></tr>
-    <tr><td>Forward from drive</td><td>8530</td><td>67</td><td>1710</td><td>2955</td></tr>
-    <tr><td>Broken down</td><td>1203</td><td>65</td><td>354</td><td>489</td></tr>
-  </tbody>
-</table>
