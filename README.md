@@ -64,13 +64,6 @@ Key highlights:
 
 - **Vehicle Involvement and Impact Roles**: Cars are the most involved, followed by light trucks and motorcycles. Vulnerable road users such as pedestrians and cyclists face higher risks. Most crashes occur on the street of travel, with north-south corridors showing higher volumes.
 
-Recommendations at this stage:
-- Focus on urban LGAs and high-crash streets for traffic management, safer intersections, and congestion mitigation
-- Target rural areas with interventions to reduce fatal crashes, including speed enforcement and improved lighting
-- Upgrade infrastructure such as street lighting, road surfaces, and roadside hazards
-- Public campaigns for safe driving in adverse weather and low-light conditions
-- Improve data quality for accurate hotspot identification
-
 ## Insights
 ### 1. Crash Injuries and Contributing Factors
 - Fatalities are about 1.8% of all crashes
