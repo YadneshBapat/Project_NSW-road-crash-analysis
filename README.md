@@ -134,9 +134,9 @@ Recommendations at this stage:
 ## Power BI Report and Dashboard
 PBIX file available [here](PBIX-Report-files)
 
-![Dashboard Page 1](https://github.com/user-attachments/assets/f1bc203c-516a-45ed-97a8-ea89ecce720e)
-![Dashboard Page 2](https://github.com/user-attachments/assets/87252d82-3522-4c95-92a5-0cda26162c0d)
-![Dashboard Page 3](https://github.com/user-attachments/assets/a5568c87-b135-41d3-8f36-b56527f9bd75)
-![Dashboard Page 4](https://github.com/user-attachments/assets/f775cb2d-8381-488e-a75d-a7b8caa4eb19)
-![Dashboard Page 5](https://github.com/user-attachments/assets/631c3047-7302-4b83-93bf-00deae33c73b)
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+
 
