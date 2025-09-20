@@ -201,7 +201,6 @@ The Number of road collisions has reduced gradually from 2016 to 2021 however, i
 
 ### 5. Data Quality & Monitoring
 <p align="justify">SQL analysis also revealed challenges in crash data completeness and quality. Missing or “unknown” values for critical variables—such as lighting conditions, weather, and precise street location—limit the reliability of hotspot identification and the attribution of risk factors. Without accurate environmental data, it is difficult to quantify the contribution of conditions like wet roads or poor visibility to crash severity. Similarly, incomplete location data restricts the ability to identify high-risk corridors and intersections, limiting evidence-based intervention planning.</p> <p align="justify">Enhancing crash monitoring and reporting requires both technological and procedural improvements. Field officers should be trained to capture accurate and comprehensive crash details, including lighting, weather, maneuvers, and GPS coordinates. Automated data collection—via roadside sensors, integrated weather monitoring, and GPS-enabled reporting—can supplement manual records and reduce errors. Integrating crash data with hospital records, insurance claims, and traffic flow datasets can provide a richer, more holistic view of crashes and outcomes. Regular audits and validation checks should also be implemented. Strengthened data quality and monitoring will improve analysis accuracy, enable targeted interventions, and support more effective, evidence-based road safety strategies.</p>
-<br>
 
   
 ## Recommendations Report:
@@ -237,4 +236,15 @@ The Number of road collisions has reduced gradually from 2016 to 2021 however, i
 <p align="justify">Regular data audits and feedback loops must also be established to identify patterns of missing or inconsistent data and ensure accountability in reporting. Public dashboards could be developed to increase transparency, allowing stakeholders and communities to access real-time crash trends and hold authorities accountable for safety outcomes. By improving the breadth, depth, and reliability of crash data, policymakers will be better positioned to allocate resources efficiently, design interventions with measurable impacts, and track progress over time. Data quality is therefore not only a technical challenge but a foundational requirement for achieving long-term, evidence-based improvements in road safety.
 
 ##  Power BI report and dashboard: 
-[nsw road crash report 1.pdf](https://github.com/user-attachments/files/22399883/nsw.road.crash.report.1.pdf)
+[Please find full pbix file report here](PBIX_report_files/nsw_road_crash_report_1.pdf)
+<br><br>
+<img width="909" height="544" width="80%" alt="page 1" src="https://github.com/user-attachments/assets/f1bc203c-516a-45ed-97a8-ea89ecce720e" />
+
+<img width="968" height="544" width="80%" alt="page 2" src="https://github.com/user-attachments/assets/87252d82-3522-4c95-92a5-0cda26162c0d" />
+
+<img width="973" height="542" width="80%" alt="page 3" src="https://github.com/user-attachments/assets/a5568c87-b135-41d3-8f36-b56527f9bd75" />
+
+<img width="971" height="551" width="80%" alt="page 4" src="https://github.com/user-attachments/assets/f775cb2d-8381-488e-a75d-a7b8caa4eb19" />
+
+
+<img width="972" height="550" width="80%" alt="page 5" src="https://github.com/user-attachments/assets/631c3047-7302-4b83-93bf-00deae33c73b" />
