@@ -2,6 +2,8 @@
 
 ![Project Banner](https://github.com/user-attachments/assets/f0e17fa9-30c1-41c5-b7a9-6d03c04b8318)
 
+## [View full report here](Report)
+
 ## Table of Contents
 - [Project Background](#project-background)
 - [Project Objectives](#project-objectives)
