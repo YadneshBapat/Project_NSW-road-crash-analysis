@@ -35,24 +35,9 @@ The dataset used in this project is organised into a relational database schema 
 
 <img width="344" alt="erd diagram" src="https://github.com/user-attachments/assets/b2ce363e-61f2-4415-bfa6-7eb6cdf77c71" /> 
 
-## Executive summaryyyy:
+## Executive summary:
 <p align="justify">The analysis of road crashes in New South Wales from 2016 to 2023 reveals that while fatalities are relatively low at 2,649 (≈1.8%), the broader impact of crashes is substantial, with 38,079 serious injuries (≈26%) and 59,520 moderate injuries (≈41%) placing a significant burden on public health, emergency services, and society. Crash frequency has generally declined between 2016 and 2021 but has increased steadily since 2021, returning to pre-pandemic levels by 2023. Crashes are concentrated in urban LGAs such as Canterbury-Bankstown, Central Coast, Blacktown, Sydney, and Parramatta, with specific streets and arterial roads showing high incident rates, while rural areas, although having fewer total crashes, exhibit higher fatality rates per crash. Cars dominate crash involvement, contributing the majority of fatalities and injuries, whereas motorcycles, light trucks, and vulnerable road users like pedestrians and cyclists face disproportionately high risks. Most crashes occur on 2-way undivided roads and at intersections—particularly T- and X-junctions—with adverse environmental conditions such as wet roads, darkness, and roadside hazards amplifying severity. Temporal patterns show peaks during morning and afternoon commutes and lunchtime periods, with weekend crashes reflecting leisure travel trends. Overall, the data indicate that vehicle type, road design, environmental conditions, and human behavior collectively influence both crash frequency and severity, underscoring the need for targeted interventions in high-risk areas, improvements in infrastructure and lighting, enhanced enforcement and public awareness campaigns, and continued investment in data quality and monitoring to reduce fatalities and injuries across New South Wales.</p>
 
-
-## Executive summary: 
-<p align="justify"> Fatal injuries gradually reduced from 2017 to 2022 but reached pre-pandemic values quickly in 2023.
-Serious injuries had the same impact but did not reach a high value, but they are still higher than the pandemic time frame. 
-Moderate and minor injuries showed a decline, but a short growth in 2023 was seen. 
-The Number of road collisions has reduced gradually from 2016 to 2021 however, it rises steadily from 2021 to 2023. <br><br>
-  - MOST COMMON VEHICLE<br>
-  - MOST COMMON ROAD TYPE </p>
- <br>
-  <img width="675" alt="injury stat" src="https://github.com/user-attachments/assets/30a853ee-eb0f-4c5b-9086-a90bbc6f5272" />
-
-  <br>
-- quantitative value
-- business metric
-- historical trend and story
 
 ## Project Overview:
 <ul>
