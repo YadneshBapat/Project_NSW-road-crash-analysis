@@ -40,7 +40,7 @@ Data obtained from the NSW Government [Transport Open Data Portal](https://opend
 Clean URL: `https://opendata.transport.nsw.gov.au/dataset/nsw-crash-data`
 
 ## Dataset Structure
-The dataset is organized into a relational database capturing detailed information about road crashes and associated traffic units.
+The dataset is organized into a relational database capturing detailed information about road crashes and associated traffic units.<br>
 <img src="https://github.com/user-attachments/assets/b2ce363e-61f2-4415-bfa6-7eb6cdf77c71" alt="ERD Diagram" width="400"/>
 
 ## Executive Summary
