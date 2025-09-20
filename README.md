@@ -1,3 +1,5 @@
+<img width="1760" height="736" alt="Autoloader" src="https://github.com/user-attachments/assets/fc2d9b7b-c4f3-4dba-9d24-8cf8cd77305c" />
+
 ## Table of Contents:
 - [Project Background](#project-background)
 - [Project Objectives](#project-objectives)
