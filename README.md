@@ -47,10 +47,6 @@ Fatal injuries gradually reduced from 2017 to 2022 but returned to pre-pandemic 
 Serious injuries showed similar trends, while moderate and minor injuries declined overall but increased slightly in 2023.  
 Road collisions reduced from 2016 to 2021 but steadily rose again through 2023.
 
-Most common vehicle types and road types are identified in the analysis.
-
-![Injury Statistics](https://github.com/user-attachments/assets/30a853ee-eb0f-4c5b-9086-a90bbc6f5272)
-
 Key highlights:
 - Quantitative values and historical trends
 - Patterns in fatalities, serious injuries, and moderate/minor injuries
