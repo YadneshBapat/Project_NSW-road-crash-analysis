@@ -1,4 +1,4 @@
-<img width="1760" height="736" alt="Autoloader" src="https://github.com/user-attachments/assets/fc2d9b7b-c4f3-4dba-9d24-8cf8cd77305c" />
+<img width="1920" height="1080" alt="nsw project 1" src="https://github.com/user-attachments/assets/71fc99f4-df59-4473-9cd8-9d94d5d66a10" />
 
 ## Table of Contents:
 - [Project Background](#project-background)
