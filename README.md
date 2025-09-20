@@ -44,14 +44,7 @@ The dataset is organized into a relational database capturing detailed informati
 <img src="https://github.com/user-attachments/assets/b2ce363e-61f2-4415-bfa6-7eb6cdf77c71" alt="ERD Diagram" width="400"/>
 
 ## Executive Summary
-Fatal injuries gradually reduced from 2017 to 2022 but returned to pre-pandemic levels in 2023.  
-Serious injuries showed similar trends, while moderate and minor injuries declined overall but increased slightly in 2023.  
-Road collisions reduced from 2016 to 2021 but steadily rose again through 2023.
-
-Key highlights:
-- Quantitative values and historical trends
-- Patterns in fatalities, serious injuries, and moderate/minor injuries
-- Insights into common vehicles and crash locations
+<p align='justify'>Road crashes impose a substantial public health and socioeconomic burden, with fatalities (~1.8%) overshadowed by serious (~26%) and moderate (~41%) injuries, highlighting the widespread impact beyond deaths. Cars dominate crash involvement, while motorcycles, pedestrians, cyclists, and light trucks experience disproportionately severe outcomes. Key risk factors include two-way undivided roads, intersections (T- and X-junctions), high-risk corridors, adverse weather, poor lighting, and roadside hazards, with urban areas exhibiting high crash frequency and rural areas higher fatality rates. High-risk maneuvers such as unsafe turning, wrong-side driving, and mid-block pedestrian crossings amplify severity. Strategic interventions require an integrated approach: upgrading infrastructure (central barriers, roundabouts, lighting, anti-skid surfacing, and roadside hazard mitigation), protecting vulnerable road users through dedicated lanes and crossings, promoting vehicle safety technologies, targeting dangerous behaviors through enforcement and education, and enhancing crash data quality via standardized reporting and automated monitoring. Evidence-driven, context-specific interventions across urban and rural environments are essential to reducing injury severity, preventing fatalities, and alleviating the broader societal burden of road crashes.</p>
 
 ## Project Overview
 - **Crash Hotspots and Geographic Distribution**: Crashes are concentrated in urban LGAs like Canterbury-Bankstown, Central Coast, Blacktown, Sydney, and Parramatta. Rural LGAs have fewer crashes but higher fatality proportions. Peak crash locations align with major arterial roads.  
