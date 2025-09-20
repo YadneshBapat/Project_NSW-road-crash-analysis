@@ -122,6 +122,6 @@ PBIX file available [here](PBIX-Report-files)
 
 ## My socials
 [![portfolio](https://img.shields.io/badge/my_portfolio-FFFFFF?style=for-the-badge&logo=ko-fi&logoColor=black)](https://yadneshbapat.github.io/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yadnesh-bapat/)
 
 
