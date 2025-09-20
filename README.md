@@ -47,15 +47,24 @@ The dataset is organized into a relational database capturing detailed informati
 <p align='justify'>Road crashes impose a substantial public health and socioeconomic burden, with fatalities (~1.8%) overshadowed by serious (~26%) and moderate (~41%) injuries, highlighting the widespread impact beyond deaths. Cars dominate crash involvement, while motorcycles, pedestrians, cyclists, and light trucks experience disproportionately severe outcomes. Key risk factors include two-way undivided roads, intersections (T- and X-junctions), high-risk corridors, adverse weather, poor lighting, and roadside hazards, with urban areas exhibiting high crash frequency and rural areas higher fatality rates. High-risk maneuvers such as unsafe turning, wrong-side driving, and mid-block pedestrian crossings amplify severity. Strategic interventions require an integrated approach: upgrading infrastructure (central barriers, roundabouts, lighting, anti-skid surfacing, and roadside hazard mitigation), protecting vulnerable road users through dedicated lanes and crossings, promoting vehicle safety technologies, targeting dangerous behaviors through enforcement and education, and enhancing crash data quality via standardized reporting and automated monitoring. Evidence-driven, context-specific interventions across urban and rural environments are essential to reducing injury severity, preventing fatalities, and alleviating the broader societal burden of road crashes.</p>
 
 ## Project Overview
-- **Crash Hotspots and Geographic Distribution**: Crashes are concentrated in urban LGAs like Canterbury-Bankstown, Central Coast, Blacktown, Sydney, and Parramatta. Rural LGAs have fewer crashes but higher fatality proportions. Peak crash locations align with major arterial roads.  
+<ul>
+  <li>
+    <p align="justify"><strong>Crash Hotspots and Geographic Distribution:</strong> Crashes are concentrated in urban LGAs like Canterbury-Bankstown, Central Coast, Blacktown, Sydney, and Parramatta. Rural LGAs have fewer crashes but higher fatality proportions. Peak crash locations align with major arterial roads.</p>
+  </li>
+  <li>
+    <p align="justify"><strong>Road and Environmental Factors:</strong> Most crashes occur on sealed, dry roads in fine weather, but wet, icy, or unsealed surfaces increase severity. Poor lighting and absence of traffic signals are associated with higher injury levels. Roadside hazards like trees, poles, fences, and embankments significantly contribute to crash severity.</p>
+  </li>
+  <li>
+    <p align="justify"><strong>Regional Crash Patterns:</strong> Urban areas dominate in total crashes and injuries, while rural areas show higher fatality rates per crash. Peak crash periods align with commuting hours (06:00-09:59 and 14:00-17:59) and lunchtime (12:00-13:59). Weekend crashes correspond to leisure travel patterns.</p>
+  </li>
+  <li>
+    <p align="justify"><strong>Crash Severity and Injury Outcomes:</strong> Around 70% of crashes result in injury, while fatal crashes account for 1-2%. Weather, lighting, and road conditions significantly influence crash severity.</p>
+  </li>
+  <li>
+    <p align="justify"><strong>Vehicle Involvement and Impact Roles:</strong> Cars are the most involved, followed by light trucks and motorcycles. Vulnerable road users such as pedestrians and cyclists face higher risks. Most crashes occur on the street of travel, with north-south corridors showing higher volumes.</p>
+  </li>
+</ul>
 
-- **Road and Environmental Factors**: Most crashes occur on sealed, dry roads in fine weather, but wet, icy, or unsealed surfaces increase severity. Poor lighting and absence of traffic signals are associated with higher injury levels. Roadside hazards like trees, poles, fences, and embankments significantly contribute to crash severity.  
-
-- **Regional Crash Patterns**: Urban areas dominate in total crashes and injuries, while rural areas show higher fatality rates per crash. Peak crash periods align with commuting hours (06:00–09:59 and 14:00–17:59) and lunchtime (12:00–13:59). Weekend crashes correspond to leisure travel patterns.  
-
-- **Crash Severity and Injury Outcomes**: Around 70% of crashes result in injury, while fatal crashes account for 1–2%. Weather, lighting, and road conditions significantly influence crash severity.  
-
-- **Vehicle Involvement and Impact Roles**: Cars are the most involved, followed by light trucks and motorcycles. Vulnerable road users such as pedestrians and cyclists face higher risks. Most crashes occur on the street of travel, with north-south corridors showing higher volumes.
 
 ## Insights
 ### 1. Crash Injuries and Contributing Factors
