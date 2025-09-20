@@ -10,7 +10,7 @@
 - [Executive Summary](#executive-summary)
 - [Project Overview](#project-overview)
 - [Insights](#insights)
-- [Recommendations Report](#recommendations-report)
+- [Recommendations](#recommendations)
 - [Power BI Report and Dashboard](#power-bi-report-and-dashboard)
 
 ## Project Background
@@ -39,8 +39,7 @@ Clean URL: `https://opendata.transport.nsw.gov.au/dataset/nsw-crash-data`
 
 ## Dataset Structure
 The dataset is organized into a relational database capturing detailed information about road crashes and associated traffic units.
-
-![ERD Diagram](https://github.com/user-attachments/assets/b2ce363e-61f2-4415-bfa6-7eb6cdf77c71)
+<img src="https://github.com/user-attachments/assets/b2ce363e-61f2-4415-bfa6-7eb6cdf77c71" alt="ERD Diagram" width="400"/>
 
 ## Executive Summary
 Fatal injuries gradually reduced from 2017 to 2022 but returned to pre-pandemic levels in 2023.  
@@ -101,7 +100,7 @@ Recommendations at this stage:
 - Improved reporting, automated data collection, and integration with other datasets enhance analysis
 - Regular audits and validation checks improve crash monitoring and support evidence-based interventions
 
-## Recommendations Report
+## Recommendations
 1. **Injury & Severity Analysis**
    - Promote safer vehicle technologies (ADAS) and public awareness
    - Upgrade two-way undivided roads and intersections
