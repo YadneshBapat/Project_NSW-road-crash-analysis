@@ -1,3 +1,5 @@
+# NSW Road Crash Analysis (2016-2023)
+
 <img width="1746" height="688" alt="nsw project 1" src="https://github.com/user-attachments/assets/f0e17fa9-30c1-41c5-b7a9-6d03c04b8318" />
 
 ## Table of Contents:
@@ -21,6 +23,7 @@ Road accidents remain a leading cause of injury and death worldwide, imposing si
 <li>Recommendations for specific regions and localities</li>
 <li>Street-level crash hotspot analysis</li>
 </ul>
+
 
 ## Project Objectives
 <p align="justify">
