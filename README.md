@@ -113,6 +113,42 @@ The dataset is organized into a relational database capturing detailed informati
    - Standardize crash reporting and improve data capture
    - Integrate automated feeds and external datasets
    - Regular audits, public dashboards, and feedback loops
+  
+# Project Overview
+
+## Crash Hotspots and Geographic Distribution
+<p align="justify">Crashes are concentrated in urban LGAs such as Canterbury-Bankstown, Central Coast, Blacktown, Sydney, and Parramatta, while rural LGAs experience fewer crashes but higher fatality rates. Peak crash locations align with major arterial roads and high-traffic corridors.</p>
+
+## Road and Environmental Factors
+<p align="justify">Most crashes occur on sealed, dry roads during fine weather, but wet, icy, or unsealed surfaces increase severity. Poor lighting, absence of traffic signals, and roadside hazards - trees, poles, fences, and embankments - contribute significantly to serious and fatal outcomes.</p>
+
+## Regional Crash Patterns
+<p align="justify">Urban areas dominate in total crashes and injuries, whereas rural areas show higher fatalities per incident. Peak crash periods occur during commuting hours (06:00-09:59, 14:00-17:59) and lunchtime (12:00-13:59), with weekend crashes aligning with leisure travel patterns.</p>
+
+## Crash Severity and Injury Outcomes
+<p align="justify">Approximately 70% of crashes result in injury, while fatalities account for 1-2%. Weather, lighting, and road conditions strongly influence crash severity.</p>
+
+## Vehicle Involvement and Behavioral Insights
+<p align="justify">Cars are the most involved vehicles, followed by light trucks and motorcycles. Vulnerable road users - pedestrians and cyclists - face disproportionately high risk. High-risk maneuvers such as wrong-side driving and unsafe turning contribute significantly to severe outcomes, while safe infrastructure and targeted behavioral campaigns mitigate risks.</p>
+
+## Key Insights
+<ol>
+  <li><p align="justify"><strong>Injury and Contributing Factors:</strong> Fatalities are ~1.8% of crashes; serious injuries 26%; moderate injuries 41%. Two-way undivided roads and intersections (T- and X-junctions) are high-risk.</p></li>
+  <li><p align="justify"><strong>Temporal and Geospatial Patterns:</strong> Urban LGAs have high crash frequency; rural LGAs have higher fatalities. High-risk corridors include Canterbury Road, Pacific Highway, and Western Road.</p></li>
+  <li><p align="justify"><strong>Environmental and Infrastructure Factors:</strong> Adverse weather, darkness, and roadside hazards amplify severity. Infrastructure improvements - lighting, anti-skid surfaces, hazard mitigation - reduce risk.</p></li>
+  <li><p align="justify"><strong>Vehicle and Behavioral Insights:</strong> Vulnerable users experience high injury severity. Risky maneuvers drive serious/fatal outcomes; protected lanes, crossings, and education reduce exposure.</p></li>
+  <li><p align="justify"><strong>Data Quality and Monitoring:</strong> Incomplete or unknown values limit analysis. Standardized reporting, automated data capture, and integration with hospital/traffic datasets enhance monitoring and evidence-based interventions.</p></li>
+</ol>
+
+## Recommendations
+<ol>
+  <li><p align="justify"><strong>Injury and Severity:</strong> Promote advanced vehicle safety technologies (ADAS), upgrade high-risk roads and intersections, expand roundabouts.</p></li>
+  <li><p align="justify"><strong>Geospatial Interventions:</strong> Urban - injury reduction strategies; Rural - fatality prevention, emergency response improvements, hotspot monitoring.</p></li>
+  <li><p align="justify"><strong>Environmental and Infrastructure:</strong> Expand lighting, anti-skid surfaces, ITS in fog-prone areas, remove/shield roadside hazards.</p></li>
+  <li><p align="justify"><strong>Vehicle and Behavioral:</strong> Protect vulnerable users with infrastructure, enforce high-risk maneuvers, promote safe driving behaviors.</p></li>
+  <li><p align="justify"><strong>Data Quality and Monitoring:</strong> Standardize reporting, integrate automated and external datasets, conduct regular audits, and maintain public dashboards.</p></li>
+</ol>
+
 
 ## Power BI Report and Dashboard
 PBIX file available [here](PBIX-Report-files)
