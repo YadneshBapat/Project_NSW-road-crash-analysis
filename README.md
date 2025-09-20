@@ -1,4 +1,9 @@
-<img width="1920" height="1080" alt="nsw project 1" src="https://github.com/user-attachments/assets/71fc99f4-df59-4473-9cd8-9d94d5d66a10" />
+
+
+<img width="1746" height="688" alt="nsw project 1" src="https://github.com/user-attachments/assets/f0e17fa9-30c1-41c5-b7a9-6d03c04b8318" />
+
+
+
 
 ## Table of Contents:
 - [Project Background](#project-background)
