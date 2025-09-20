@@ -7,7 +7,7 @@
 - [Dataset structure](#dataset-structure)
 - [Executive summary](#executive-summary)
 - [Insights deep dive](#insights-deep-dive)
-- [Recommendations](#recommendations)
+- [Recommendations report](#recommendations-report)
 - [Power BI report and dashboard](#power-bi-report-and-dashboard)
 
 
@@ -117,28 +117,8 @@ The Number of road collisions has reduced gradually from 2016 to 2021 however, i
 
 <p align="justify">Regular data audits and feedback loops must also be established to identify patterns of missing or inconsistent data and ensure accountability in reporting. Public dashboards could be developed to increase transparency, allowing stakeholders and communities to access real-time crash trends and hold authorities accountable for safety outcomes. By improving the breadth, depth, and reliability of crash data, policymakers will be better positioned to allocate resources efficiently, design interventions with measurable impacts, and track progress over time. Data quality is therefore not only a technical challenge but a foundational requirement for achieving long-term, evidence-based improvements in road safety.
 
-## Summary of Recommendations
-Injury & Severity Analysis
-Most crashes result in serious or moderate injuries, especially from cars, light trucks, and motorcycles. Vulnerable road users (pedestrians, cyclists) face disproportionately high fatality rates. Upgrades to undivided roads, safer intersection designs, and expanded roundabouts are critical to reducing severe outcomes.
-
-Geospatial Analysis
-Urban LGAs (e.g., Canterbury-Bankstown, Blacktown, Parramatta) record the highest injury volumes, requiring safer crossings, cycle lanes, and congestion management. Rural LGAs face fewer crashes but higher fatality rates, calling for median barriers, rumble strips, and improved emergency response. High-crash corridors such as Canterbury Road and Pacific Highway should be treated as priority safety zones.
-
-Environmental & Infrastructure Factors
-Poor lighting, wet surfaces, and roadside hazards significantly increase crash severity. Solutions include expanded street lighting, anti-skid surfacing, fog warning systems, and removal or shielding of roadside obstacles. Wildlife crossings and guardrails should be prioritized in rural areas.
-
-Vehicle & Behavioral Insights
-Cars dominate crash frequency, while motorcycles, pedestrians, and cyclists face higher risks per crash. Protective infrastructure (cycle lanes, raised crossings) and stricter enforcement on risky maneuvers (wrong-side driving, unsafe turns, speeding) are essential. Education programs and enforcement technologies such as speed and lane cameras will further reduce risky behaviors.
-
-Data Quality & Monitoring
-Gaps in crash data—especially lighting, weather, and maneuver details—limit precision. Standardized digital reporting, integration with hospital and traffic data, and automated feeds from roadside sensors should be implemented. Public dashboards can enhance transparency and accountability.
-
-Overall, a multi-faceted approach combining safer infrastructure, stricter enforcement, improved vehicle technologies, vulnerable user protection, and stronger data systems will yield the greatest reduction in crash frequency and severity.
-
 ##  Power BI report and dashboard: 
 [nsw road crash report 1.pdf](https://github.com/user-attachments/files/22399883/nsw.road.crash.report.1.pdf)
-
-
 
 ## test
 ### 1. Injury & Severity Analysis
