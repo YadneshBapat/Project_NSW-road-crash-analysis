@@ -9,7 +9,7 @@
 - [Dataset Structure](#dataset-structure)
 - [Executive Summary](#executive-summary)
 - [Project Overview](#project-overview)
-- [Insights Deep Dive](#insights-deep-dive)
+- [Insights](#insights)
 - [Recommendations Report](#recommendations-report)
 - [Power BI Report and Dashboard](#power-bi-report-and-dashboard)
 
@@ -74,7 +74,7 @@ Recommendations at this stage:
 - Public campaigns for safe driving in adverse weather and low-light conditions
 - Improve data quality for accurate hotspot identification
 
-## Insights Deep Dive
+## Insights
 ### 1. Crash Injuries and Contributing Factors
 - Fatalities are about 1.8% of all crashes
 - Serious injuries account for 26% and moderate injuries 41%
