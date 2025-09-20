@@ -218,13 +218,4 @@ The Number of road collisions has reduced gradually from 2016 to 2021 however, i
 ##  Power BI report and dashboard: 
 ### Please find pbix file [here](PBIX-Report-files)
 <br>
-<img width="909" height="544" width="80%" alt="page 1" src="https://github.com/user-attachments/assets/f1bc203c-516a-45ed-97a8-ea89ecce720e" />
 
-<img width="968" height="544" width="80%" alt="page 2" src="https://github.com/user-attachments/assets/87252d82-3522-4c95-92a5-0cda26162c0d" />
-
-<img width="973" height="542" width="80%" alt="page 3" src="https://github.com/user-attachments/assets/a5568c87-b135-41d3-8f36-b56527f9bd75" />
-
-<img width="971" height="551" width="80%" alt="page 4" src="https://github.com/user-attachments/assets/f775cb2d-8381-488e-a75d-a7b8caa4eb19" />
-
-
-<img width="972" height="550" width="80%" alt="page 5" src="https://github.com/user-attachments/assets/631c3047-7302-4b83-93bf-00deae33c73b" />
